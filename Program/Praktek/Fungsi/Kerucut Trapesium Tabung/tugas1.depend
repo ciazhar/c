@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1456886976 source:h:\tugas1\fungsi.c
+	"header.h"
+
+1456886958 h:\tugas1\header.h
+	"header.h"
+
+1456886896 source:h:\tugas1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

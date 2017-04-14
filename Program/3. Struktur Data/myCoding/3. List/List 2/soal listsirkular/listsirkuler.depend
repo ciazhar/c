@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1351398499 source:c:\users\asus\desktop\listsirkuler\main.c
+	"listsirkuler.h"
+
+1448446898 ler.h"
+
+1351398488 c:\users\asus\desktop\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1448441046 
+
+1351399969 source:c:\users\asus\desktop\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1351399980 source:d:\kuliah\struktur data\jawaban\psda08\listsirkuler\main.c
+	"listsirkuler.h"
+
+1351398488 d:\kuliah\struktur data\jawaban\psda08\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1353206118 source:d:\kuliah\struktur data\jawaban\psda08\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1353206120 source:h:\psda7-8\psda08\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1351398490 h:\psda7-8\psda08\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1447607962 source:d:\dinus\semester3\struktur data\kunci psda\psda08\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1351398490 d:\dinus\semester3\struktur data\kunci psda\psda08\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1448208203 source:c:\users\ryan\desktop\struktur data\pert-7\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1448207178 c:\users\ryan\desktop\struktur data\pert-7\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1448208181 source:c:\users\ryan\desktop\struktur data\pert-7\listsirkuler\main.c
+	"listsirkuler.h"
+
+1448441062 source:f:\pert-9\pert-7\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1448441044 f:\pert-9\pert-7\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1448441102 source:f:\pert-9\pert-7\listsirkuler\main.c
+	"listsirkuler.h"
+
+1448446734 source:h:\[19+] a11.4315 strukdat\soal pert 9\main.c
+	"listsirkuler.h"
+
+1448441046 h:\[19+] a11.4315 strukdat\soal pert 9\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1448446898 source:h:\[19+] a11.4315 strukdat\soal pert 9\listsirkuler.c
+	"listsirkuler.h"
+
+1475404182 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/3. List/List 2/soal listsirkular/main.c
+	"listsirkuler.h"
+
+1448441046 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/3. List/List 2/soal listsirkular/listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1448448350 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/3. List/List 2/soal listsirkular/listsirkuler.c
+	"listsirkuler.h"
+

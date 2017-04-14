@@ -1,0 +1,8 @@
+
+Soal Pemahaman (Pakai STACK yang STATIS)
+
+1. Membuat fungsi isTopGanjil (Apakah Top Element Ganjil)
+
+2.Membuat Prosedur PrintGanjil (Cetak Hanya Element Ganjil)
+
+3.Membuat fungsi SumGenap (Menjumlahkan hanya Info yang genap)

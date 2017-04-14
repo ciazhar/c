@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1418573236 source:d:\daspro\program\pdp_12\drvstruktur.c
+	"boolean.h"
+	"struktur.h"
+
+1418573355 d:\daspro\program\pdp_12\boolean.h
+
+1418573416 d:\daspro\program\pdp_12\struktur.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"boolean.h"
+
+1418573288 source:d:\daspro\program\pdp_12\struktur.c
+	"struktur.h"
+

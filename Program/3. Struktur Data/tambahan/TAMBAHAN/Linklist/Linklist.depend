@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1475131333 source:c:\users\labdas\desktop\linklist\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+

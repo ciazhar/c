@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1387770533 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\priority\fungsi.c
+	"priority.h"
+
+1387759968 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\priority\priority.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1387735466 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\priority\boolean.h
+
+1387760019 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\priority\main.c
+	"priority.h"
+

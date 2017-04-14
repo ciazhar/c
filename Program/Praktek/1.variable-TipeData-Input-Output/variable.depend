@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1442902694 source:h:\_\kuliah\pemrograman\variable\main.c
+	<stdio.h>
+	<stdlib.h>
+

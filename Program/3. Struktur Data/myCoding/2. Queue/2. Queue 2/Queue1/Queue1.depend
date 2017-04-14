@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1380467521 source:d:\udinus\semester3\queue1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1380468397 d:\udinus\semester3\queue1\header.h
+	"stdio.h"
+	"stdlib.h"
+	"boolean.h"
+
+1380468397 d:\udinus\semester3\queue1\boolean.h
+
+1380474587 source:d:\udinus\semester3\queue1\queue1.c
+	"header.h"
+
+1380467522 source:g:\psda2\queue1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1380468398 g:\psda2\queue1\header.h
+	"stdio.h"
+	"stdlib.h"
+	"boolean.h"
+
+1380468398 g:\psda2\queue1\boolean.h
+
+1380474588 source:g:\psda2\queue1\queue1.c
+	"header.h"
+
+1443333226 source:d:\dinus\semester3\struktur data\tugas psda\psda2\queue1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1443333265 d:\dinus\semester3\struktur data\tugas psda\psda2\queue1\header.h
+	"stdio.h"
+	"stdlib.h"
+	"boolean.h"
+
+1380468398 d:\dinus\semester3\struktur data\tugas psda\psda2\queue1\boolean.h
+
+1443333265 source:d:\dinus\semester3\struktur data\tugas psda\psda2\queue1\queue1.c
+	"header.h"
+
+1443333675 source:c:\users\ryan\desktop\new folder\jawaban\queue1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1443333265 c:\users\ryan\desktop\new folder\jawaban\queue1\header.h
+	"stdio.h"
+	"stdlib.h"
+	"boolean.h"
+
+1380468398 c:\users\ryan\desktop\new folder\jawaban\queue1\boolean.h
+
+1443333675 source:c:\users\ryan\desktop\new folder\jawaban\queue1\queue1.c
+	"header.h"
+
+1443423146 source:h:\jawaban\queue1\queue1.c
+	"header.h"
+
+1443606718 h:\jawaban\queue1\header.h
+	"stdio.h"
+	"stdlib.h"
+	"boolean.h"
+
+1380468398 h:\jawaban\queue1\boolean.h
+
+1443606850 source:h:\jawaban\queue1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1443606850 source:h:\ \(6) a11.4315 strukdat\jawaban pert 3 4315\queue1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1443606718 h:\ \(6) a11.4315 strukdat\jawaban pert 3 4315\queue1\header.h
+	"stdio.h"
+	"stdlib.h"
+	"boolean.h"
+
+1380468398 h:\ \(6) a11.4315 strukdat\jawaban pert 3 4315\queue1\boolean.h
+
+1443609260 source:h:\ \(6) a11.4315 strukdat\jawaban pert 3 4315\queue1\queue1.c
+	"header.h"
+

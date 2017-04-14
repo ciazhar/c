@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1464527088 source:h:\_\kuliah\[2]algoritma pemrograman\alproteori-end\pustaka.c
+	"pustaka.h"
+
+1464526956 h:\_\kuliah\[2]algoritma pemrograman\alproteori-end\pustaka.h
+
+1464663532 source:h:\_\kuliah\[2]algoritma pemrograman\alproteori-end\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1465113422 source:h:\[2]algoritma pemrograman\alproteori-end\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1465023570 h:\[2]algoritma pemrograman\alproteori-end\pustaka.h
+
+1465023358 source:h:\[2]algoritma pemrograman\alproteori-end\pustaka.c
+	"pustaka.h"
+	<stdio.h>
+	<stdlib.h>
+
+1465023358 source:h:\[2]algoritma pemrograman\alpro teori\alproteori_9-5\pustaka.c
+	"pustaka.h"
+	<stdio.h>
+	<stdlib.h>
+
+1465023570 h:\[2]algoritma pemrograman\alpro teori\alproteori_9-5\pustaka.h
+
+1465529886 source:d:\[2]algoritma pemrograman\alpro teori\alproteori_9-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1465541960 d:\[2]algoritma pemrograman\alpro teori\alproteori_9-5\pustaka.h
+
+1465696688 source:d:\[2]algoritma pemrograman\alpro teori\alproteori_9-5\pustaka.c
+	"pustaka.h"
+	<stdio.h>
+	<stdlib.h>
+

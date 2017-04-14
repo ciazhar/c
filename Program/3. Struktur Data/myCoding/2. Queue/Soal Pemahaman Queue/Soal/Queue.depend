@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1474882848 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Soal Pemahaman/Soal/driver.c
+	"header.h"
+
+1474882302 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Soal Pemahaman/Soal/header.h
+
+1475376071 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Soal Pemahaman/Soal/main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

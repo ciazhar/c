@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1413897681 source:c:\users\teguh\desktop\listdummy\fungsi.c
+	"list.h"
+
+1413897756 
+
+1413896779 c:\users\teguh\desktop\listdummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1413896780 "
+
+1413896405 c:\users\teguh\desktop\listdummy\boolean.h
+
+1413897453 source:c:\users\teguh\desktop\listdummy\main.c
+	"list.h"
+
+1413897682 source:d:\strukday\psda-7\listdummy\fungsi.c
+	"list.h"
+
+1413896780 d:\strukday\psda-7\listdummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1413896406 d:\strukday\psda-7\listdummy\boolean.h
+
+1413897756 source:d:\strukday\psda-7\listdummy\main.c
+	"list.h"
+
+1413897682 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/7.PSDA-7/ListDummy/fungsi.c
+	"list.h"
+
+1413896780 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/7.PSDA-7/ListDummy/list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1413896406 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/7.PSDA-7/ListDummy/boolean.h
+
+1413897756 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/7.PSDA-7/ListDummy/main.c
+	"list.h"
+

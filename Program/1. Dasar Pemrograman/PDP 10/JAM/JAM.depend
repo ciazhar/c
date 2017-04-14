@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1417909139 source:d:\daspro\program\latihan\pdp 10\jam\drvjam.c
+	<stdio.h>
+	<stdlib.h>
+	"jam.h"
+
+1417909099 d:\daspro\program\latihan\pdp 10\jam\jam.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1417909071 d:\daspro\program\latihan\pdp 10\jam\boolean.h
+
+1417909119 source:d:\daspro\program\latihan\pdp 10\jam\jam.c
+	"jam.h"
+

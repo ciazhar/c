@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480301806 source:f:\[3] struktur data\mycoding\10. stack list\stacklist\main.c
+	"header.h"
+
+1480301474 f:\[3] struktur data\mycoding\10. stack list\stacklist\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1480301736 source:f:\[3] struktur data\mycoding\10. stack list\stacklist\stack-list.c
+	"header.h"
+

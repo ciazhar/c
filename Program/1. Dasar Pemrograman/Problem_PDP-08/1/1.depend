@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1449699172 source:i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-08\1\driverttk.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	"boolean.h"
+	"titik.h"
+
+1443616772 i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-08\1\boolean.h
+
+1449699144 i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-08\1\titik.h
+	"boolean.h"
+
+1449639340 source:i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-08\1\titik.c
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"titik.h"
+
+1449639340 source:g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-08\1\titik.c
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	"titik.h"
+
+1443616772 g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-08\1\boolean.h
+
+1449638446 g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-08\1\titik.h
+
+1449650454 source:g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-08\1\driverttk.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<limits.h>
+	"boolean.h"
+	"titik.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1474422104 source:h:\queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1474421946 h:\queue\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1474422104 source:h:\queue\pustaka.c
+	"pustaka.h"
+

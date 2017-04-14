@@ -1,0 +1,14 @@
+Buatlah prosedur untuk mencetak info elemen list dari belakang (hanya mencetak, tidak mengubah list)
+L = 1 2 3 4 5
+CetakBalik(List L) = 5 4 3 2 1
+
+
+Buatlah fungsi untuk mengecek apakah suatu suatu list itu ascending atau tidak
+L = 1 2 3 4 5
+IsAscending1(List L) = true
+L1 = 1 2 3 4 1
+IsAscending1(List L1) = false 
+L1 = 1 2 3 4 1
+IsAscending2(List L1) = false
+IsAscending1 :: Mengecek dari elemen first
+IsAscending2 :: Mengecek dari elemen last

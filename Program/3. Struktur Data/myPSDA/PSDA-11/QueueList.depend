@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1481117291 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/QueueList/main.c
+	"header.h"
+
+1481116010 /media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/QueueList/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481117261 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/QueueList/queue-list.c
+	"header.h"
+

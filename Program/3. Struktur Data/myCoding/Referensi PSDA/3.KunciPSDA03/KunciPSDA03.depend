@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1444027230 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/3.KunciPSDA03/listlinier.c
+	"listlinier.h"
+
+1444027234 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/3.KunciPSDA03/listlinier.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1443979522 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/3.KunciPSDA03/boolean.h
+
+1444022718 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/3.KunciPSDA03/main.c
+	"listlinier.h"
+

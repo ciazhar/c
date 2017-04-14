@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1417143836 source:d:\daspro\program\materi pak eko\volum balok\volumbalok\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1418186206 source:d:\daspro\program\materi pak eko\volum balok\volumbalok\volum.c
+	<stdio.h>
+	<stdlib.h>
+

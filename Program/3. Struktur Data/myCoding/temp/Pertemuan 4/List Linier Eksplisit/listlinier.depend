@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\main.c
+	"list.h"
+
+1380952680 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\funct.c
+	"list.h"
+
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1380982750 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1380960606 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1380982750 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 3\list linier eksplisit\boolean.h
+
+1380960157 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1380960608 source:i:\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1409351960 i:\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 i:\psda 3\list linier eksplisit\boolean.h
+
+1409351960 source:i:\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1409351960 source:c:\documents and settings\d2h 01\desktop\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1409351960 c:\documents and settings\d2h 01\desktop\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 c:\documents and settings\d2h 01\desktop\psda 3\list linier eksplisit\boolean.h
+
+1412136922 source:c:\documents and settings\d2h 01\desktop\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1409351960 source:c:\documents and settings\d2h 01\desktop\latihan 4\list linier eksplisit\funct.c
+	"list.h"
+
+1409351960 c:\documents and settings\d2h 01\desktop\latihan 4\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 c:\documents and settings\d2h 01\desktop\latihan 4\list linier eksplisit\boolean.h
+
+1412137666 source:c:\documents and settings\d2h 01\desktop\latihan 4\list linier eksplisit\main.c
+	"list.h"
+

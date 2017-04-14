@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1353155700 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/Referensi PSDA/8.psda 8/PSDA 08/listsirkuler/listsirkuler.c
+	"listsirkuler.h"
+
+1351348080 /media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/Referensi PSDA/8.psda 8/PSDA 08/listsirkuler/listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+

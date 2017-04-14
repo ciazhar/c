@@ -1,0 +1,31 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+void tambah(); //prosedur
+int tambahf(int x, int y);//fungsi
+
+
+int main()
+{
+    //prosedur
+    tambah(6,3);
+
+    //fungsi
+    int hasil;
+    hasil = tambahf(3,4);
+    printf("hasil = %d",hasil);
+
+    return 0;
+}
+//prosedur
+void tambah(int a, int b)
+{
+   int c = a+b;
+   printf("hasilnya : %d",c);
+}
+
+//fungsi
+int tambahf(int x, int y)
+{
+    return x+y;
+}

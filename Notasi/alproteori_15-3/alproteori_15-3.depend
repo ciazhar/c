@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1465293890 source:h:\alproteori_15-3\main.c
+	<stdio.h>
+	<stdlib.h>
+

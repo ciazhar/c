@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1449217210 source:/home/as3mbus/List Queue/main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Queue.h"
+
+1449217172 source:/home/as3mbus/List Queue/List Queue.c
+	"List Queue.h"
+
+1449215280 /home/as3mbus/List Queue/List Queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1444187304 /home/as3mbus/List Queue/boolean.h
+
+1449477540 source:h:\strukdat\10\list queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Queue.h"
+
+1449476232 h:\strukdat\10\list queue\list queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1444187304 h:\strukdat\10\list queue\boolean.h
+
+1449476796 source:h:\strukdat\10\list queue\list queue.c
+	"List Queue.h"
+
+1449476796 source:g:\10\list queue\list queue.c
+	"List Queue.h"
+
+1449476232 g:\10\list queue\list queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1444187304 g:\10\list queue\boolean.h
+
+1449477540 source:g:\10\list queue\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Queue.h"
+

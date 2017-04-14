@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1450264662 source:i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-10\1\drvjam.c
+	<stdio.h>
+	<stdlib.h>
+	"jam.h"
+	"boolean.h"
+
+1450318920 i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-10\1\jam.h
+	"boolean.h"
+
+1450247482 i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-10\1\boolean.h
+
+1450321408 source:i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-10\1\jam.c
+	<stdio.h>
+	<stdlib.h>
+	"jam.h"
+	"boolean.h"
+
+1450264662 source:g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-10\1\drvjam.c
+	<stdio.h>
+	<stdlib.h>
+	"jam.h"
+	"boolean.h"
+
+1450255270 g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-10\1\jam.h
+	"boolean.h"
+
+1450247482 g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-10\1\boolean.h
+
+1450267362 source:g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-10\1\jam.c
+	<stdio.h>
+	<stdlib.h>
+	"jam.h"
+	"boolean.h"
+

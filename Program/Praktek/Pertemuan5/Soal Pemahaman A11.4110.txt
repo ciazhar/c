@@ -1,0 +1,11 @@
+1. Buatlah 5 inputan integer paralel dengan variable a,b,c,d,e. 
+   dengan kondisi jika inputan merupakan angka 'genap' maka inputan tersebut ditambahkan.
+   tetapi jika inputan tersebut merupakan angka 'ganjil' maka inputan tersebut dikurangkan.
+   
+   Sertakan hasil totalnya.
+
+Contoh : Input a,b,c,d,e :  2 10 4 7 3
+         Maka : 2 + 10 + 4 + (-7) + (-3) = 6
+
+	 Input a,b,c,d,e : 3 5 1 10 2
+	 Maka : -3 + (-5) + (-1) + 10 + 2 = 3

@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\main.c
+	"list.h"
+
+1385419190 
+
+1380952680 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1384917862 "
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\funct.c
+	"list.h"
+
+1384930082 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1384928322 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\boolean.h
+
+1384929996 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1384968261 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier dummy\funct.c
+	"list.h"
+
+1384968261 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier dummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier dummy\boolean.h
+
+1384967473 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier dummy\main.c
+	"list.h"
+
+1385469006 source:c:\documents and settings\user\my documents\downloads\list linier dummy\main.c
+	"list.h"
+
+1384968261 c:\documents and settings\user\my documents\downloads\list linier dummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 c:\documents and settings\user\my documents\downloads\list linier dummy\boolean.h
+
+1384968261 source:c:\documents and settings\user\my documents\downloads\list linier dummy\funct.c
+	"list.h"
+
+1385469348 source:c:\documents and settings\user\my documents\downloads\psda - 07\list linier dummy\main.c
+	"list.h"
+
+1384968261 c:\documents and settings\user\my documents\downloads\psda - 07\list linier dummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 c:\documents and settings\user\my documents\downloads\psda - 07\list linier dummy\boolean.h
+
+1384968261 source:c:\documents and settings\user\my documents\downloads\psda - 07\list linier dummy\funct.c
+	"list.h"
+
+1384968261 source:e:\master\struktur data\struktur data praktek\psda\psda - 07\list linier dummy\funct.c
+	"list.h"
+
+1384968261 e:\master\struktur data\struktur data praktek\psda\psda - 07\list linier dummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 e:\master\struktur data\struktur data praktek\psda\psda - 07\list linier dummy\boolean.h
+
+1384968261 source:h:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 07\list linier dummy\funct.c
+	"list.h"
+
+1384968261 h:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 07\list linier dummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 h:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 07\list linier dummy\boolean.h
+
+1385469589 source:h:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 07\list linier dummy\main.c
+	"list.h"
+
+1384968261 source:g:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 07\list linier dummy\funct.c
+	"list.h"
+
+1384968261 g:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 07\list linier dummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 07\list linier dummy\boolean.h
+
+1385469589 source:g:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 07\list linier dummy\main.c
+	"list.h"
+
+1384917862 source:e:\jawaban psda\psda - 07\list linier dummy\funct.c
+	"list.h"
+
+1384917862 e:\jawaban psda\psda - 07\list linier dummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380655530 e:\jawaban psda\psda - 07\list linier dummy\boolean.h
+
+1385419190 source:e:\jawaban psda\psda - 07\list linier dummy\main.c
+	"list.h"
+
+1477041363 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/7.psda 7/PSDA 07/List Linier Dummy/main.c
+	"list.h"
+
+1384917862 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/7.psda 7/PSDA 07/List Linier Dummy/list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380655530 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/7.psda 7/PSDA 07/List Linier Dummy/boolean.h
+
+1477043930 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/7.psda 7/PSDA 07/List Linier Dummy/funct.c
+	"list.h"
+

@@ -1,0 +1,58 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+
+    char kategori;
+    printf("masukan kategori "); scanf("%c",&kategori);
+
+    switch(kategori)
+    {
+    case 'a' :
+        printf("Rock");
+        break;
+    case 'b' :
+        printf("Jazz");
+        break;
+
+    default :
+        printf("null");
+    }
+
+
+    return 0;
+}
+
+
+
+======================================================
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int a;
+
+    printf("masukan nilai : "); scanf("%d",&a);
+
+    if(a >= 0)
+    {
+        if(a % 2 == 0)
+        {
+            printf("positif - genap");
+        }
+        else
+        {
+            printf("positif - ganjil");
+        }
+    }
+    else
+    {
+       printf("negatif");
+    }
+
+
+    return 0;
+}

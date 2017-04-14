@@ -1,0 +1,17 @@
+
+a. Buatlah fungsi untuk mencetak angka sebelum elemen terakhir dari list
+	List : 2 4 6 8 10
+	printbeforelast(L) : 8
+=====================================================================
+b. Buatlah fungsi untuk mengecek apakah list kumpulan dari bilangan genap,
+    mengembalikan true jika list merupakan kumpulan dari bil.genap dan false
+    jika tidak.
+	List : 2 4 6 8 10
+	listGenap(L) : true
+	List : 2 4 5 8 10
+	listGenap(L) : false	
+=====================================================================
+c. Buatlah prosedur untuk mengalikan nilai tengah dari list dengan X 
+	List : 2 4 6 8 10
+	kalitengah(L,X) -> X=100
+	output : 2 4 600 8 10

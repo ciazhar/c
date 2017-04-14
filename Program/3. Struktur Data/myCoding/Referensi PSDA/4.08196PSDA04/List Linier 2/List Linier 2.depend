@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1444285766 source:/home/as3mbus/List Linier 2/List Linear 2.c
+	"List Linear 2.h"
+
+1444571752 ar 2.h"
+
+1444284815 /home/as3mbus/List Linier 2/List Linear 2.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"boolean.h"
+
+1444571752 "
+
+1444187304 /home/as3mbus/List Linier 2/boolean.h
+
+1444284713 source:/home/as3mbus/List Linier 2/main.c
+	<stdio.h>
+	<stdlib.h>
+
+1444284713 
+
+1444571752 source:f:\khusus [18+]\08196psda04\list linier 2\list linear 2.c
+	"List Linear 2.h"
+
+1444571752 f:\khusus [18+]\08196psda04\list linier 2\list linear 2.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"boolean.h"
+
+1444571752 f:\khusus [18+]\08196psda04\list linier 2\boolean.h
+
+1444571752 source:f:\khusus [18+]\08196psda04\list linier 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Linear 2.h"
+
+1444571752 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/4.08196PSDA04/List Linier 2/List Linear 2.c
+	"List Linear 2.h"
+
+1444571752 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/4.08196PSDA04/List Linier 2/List Linear 2.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"boolean.h"
+
+1444571752 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/4.08196PSDA04/List Linier 2/boolean.h
+
+1444571752 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/Referensi PSDA/4.08196PSDA04/List Linier 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Linear 2.h"
+

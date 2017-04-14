@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1481101283 source:d:\rekursiflistsoal\rekursif\main.c
+	"header.h"
+
+1481101158 d:\rekursiflistsoal\rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481101207 source:d:\rekursiflistsoal\rekursif\fungsi.c
+	"header.h"
+
+1481101323 source:f:\rekursif\fungsi.c
+	"header.h"
+
+1481101158 f:\rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481101283 source:f:\rekursif\main.c
+	"header.h"
+
+1481104739 source:g:\rekursif\fungsi.c
+	"header.h"
+
+1481102351 g:\rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481104810 source:g:\rekursif\main.c
+	"header.h"
+
+1481176488 source:f:\[3] struktur data\8-12\rekursif\main.c
+	"header.h"
+
+1481171018 f:\[3] struktur data\8-12\rekursif\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481176626 source:f:\[3] struktur data\8-12\rekursif\fungsi.c
+	"header.h"
+

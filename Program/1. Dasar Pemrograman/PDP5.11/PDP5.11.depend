@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446043853 source:d:\udinus\pdp5.11\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1412084991 source:c:\users\teguh\desktop\listeksplisit\fungsi.c
+	"ListEksplisit.h"
+
+1412085092 c:\users\teguh\desktop\listeksplisit\listeksplisit.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1412084292 c:\users\teguh\desktop\listeksplisit\boolean.h
+
+1412084991 source:c:\users\teguh\desktop\listeksplisit\main.c
+	"ListEksplisit.h"
+
+1412084991 source:c:\users\teguh\desktop\psda-3\listeksplisit\fungsi.c
+	"ListEksplisit.h"
+
+1412085092 c:\users\teguh\desktop\psda-3\listeksplisit\listeksplisit.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1412084292 c:\users\teguh\desktop\psda-3\listeksplisit\boolean.h
+
+1412084991 source:c:\users\teguh\desktop\psda-3\listeksplisit\main.c
+	"ListEksplisit.h"
+
+1412084992 source:f:\dede\strukday\psda-3\listeksplisit\fungsi.c
+	"ListEksplisit.h"
+
+1412085092 f:\dede\strukday\psda-3\listeksplisit\listeksplisit.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1412084292 f:\dede\strukday\psda-3\listeksplisit\boolean.h
+
+1412084992 source:f:\dede\strukday\psda-3\listeksplisit\main.c
+	"ListEksplisit.h"
+
+1412084992 source:d:\strukday\psda-3\listeksplisit\fungsi.c
+	"ListEksplisit.h"
+
+1412085092 d:\strukday\psda-3\listeksplisit\listeksplisit.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1412084292 d:\strukday\psda-3\listeksplisit\boolean.h
+
+1412084992 source:d:\strukday\psda-3\listeksplisit\main.c
+	"ListEksplisit.h"
+

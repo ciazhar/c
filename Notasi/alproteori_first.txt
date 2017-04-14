@@ -1,0 +1,54 @@
+NAMA	: MUHAMMAD HAFIDZ
+NIM	: A11.2015.09000
+KEL	: A11.4210
+
+ADT(ABSTACT DATA TYPE) / TIPE DATA BENTUKAN
+
+///Kamus
+type Nama
+<
+	GlrDpn	: String
+	NmDpn	: String
+	NmBlk	: String
+	GlrBlk	: String
+>
+type Tanggal
+<
+	tgl	: integer
+	bl	: integer
+	th	: integer
+>
+type TT
+<
+	T	: string
+	TGL	: type Tanggal
+>
+type Alamat
+<
+	Jln	: String
+	nojal	: integer
+	Rt	: integer
+	Rw	: integer
+	Desa	: string
+	Kec	: string
+	Kab	: string
+>
+type KTP
+<
+	nik 		: integer
+	namaid 		: type Nama
+	TTL		: type TT
+	gender		: boolean
+	goldar		: string
+	almt		: type Alamat
+	agama 		: String
+	status		: string
+	pekerjaan	: string
+	kadal		: type Tanggal
+	kwarga		: string
+	TTS		: type TT
+	pengesah	: type Nama
+	Jabatan		: string
+	NIP		: integer
+>
+		

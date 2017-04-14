@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1474696204 source:/media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/1. Stack Statis/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1474696016 /media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/1. Stack Statis/pustaka.h
+
+1474696233 source:/media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/1. Stack Statis/pustaka.c
+	"pustaka.h"
+
+1474699854 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/1. Stack Statis/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1474699824 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/1. Stack Statis/pustaka.h
+
+1474699907 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/1. Stack Statis/pustaka.c
+	"pustaka.h"
+
+1476699092 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/1. Stack/1. Stack Statis/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1474699824 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/1. Stack/1. Stack Statis/pustaka.h
+

@@ -1,0 +1,7 @@
+Soal Pemahaman Senin Pagi (4307-4308)
+
+Buatlah Prosedur SwapFirstLast(List *L)->Prosedur yang digunakan untuk 
+menukar nilai elemen pertama dan nilai elemen terakhir List.
+Contoh :
+	L : 10 2 3 4 5 50 
+	SwapFirstLast(&L) : 50 2 3 4 5 10    

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1418129009 source:c:\users\teguh\desktop\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1418129009 c:\users\teguh\desktop\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1418129009 source:c:\users\teguh\desktop\listrekursif\main.c
+	"listrekursif.h"
+
+1418129009 source:c:\users\teguh\desktop\psda-12a\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1418129009 c:\users\teguh\desktop\psda-12a\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1418129009 source:c:\users\teguh\desktop\psda-12a\listrekursif\main.c
+	"listrekursif.h"
+

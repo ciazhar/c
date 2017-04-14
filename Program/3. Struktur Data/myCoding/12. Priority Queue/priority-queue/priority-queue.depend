@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1481180858 source:f:\[3] struktur data\8-12\priority-queue\main.c
+	"header.h"
+
+1481178700 
+
+1481178700 f:\[3] struktur data\8-12\priority-queue\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481206058 source:/media/hafidz/E210-C72A/[3] Struktur Data/myCoding/12. Priority Queue/priority-queue/main.c
+	"header.h"
+
+1481203900 /media/hafidz/E210-C72A/[3] Struktur Data/myCoding/12. Priority Queue/priority-queue/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481206064 source:/media/hafidz/E210-C72A/[3] Struktur Data/myCoding/12. Priority Queue/priority-queue/priority-queue.c
+	"header.h"
+
+1482103290 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/12. Priority Queue/priority-queue/main.c
+	"header.h"
+
+1482103379 /media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/12. Priority Queue/priority-queue/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1482103277 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/12. Priority Queue/priority-queue/priority-queue.c
+	"header.h"
+

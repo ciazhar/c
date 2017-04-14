@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1482117138 source:f:\[3] struktur data\19-12\binarytree\binarytree.c
+	"header.h"
+
+1482117308 
+
+1482117042 f:\[3] struktur data\19-12\binarytree\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1482117308 source:f:\[3] struktur data\19-12\binarytree\main.c
+	"header.h"
+
+1482680194 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-13/binarytree.c
+	"header.h"
+
+1482678831 /media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-13/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1482681255 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-13/main.c
+	"header.h"
+

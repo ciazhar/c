@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1450795873 source:c:\users\user\documents\daspro\pdp-11 (b)\arraysort.c
+	"arraysort.h"
+	"boolean.h"
+
+1450796614 c:\users\user\documents\daspro\pdp-11 (b)\arraysort.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1450795600 c:\users\user\documents\daspro\pdp-11 (b)\boolean.h
+
+1450796614 source:c:\users\user\documents\daspro\pdp-11 (b)\testdriver.c
+	"arraysort.h"
+

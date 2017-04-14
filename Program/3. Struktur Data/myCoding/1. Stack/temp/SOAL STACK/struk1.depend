@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1379158356 source:g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\stack.h
+	"boolean.h"
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\funct.c
+	"stack.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\boolean.h
+
+1379567550 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\stack.h
+	"boolean.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\boolean.h
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\funct.c
+	"stack.h"
+
+1379567550 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\stack.h
+	"boolean.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\boolean.h
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\funct.c
+	"stack.h"
+
+1410889796 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 1\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1410889819 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 1\struktur statis\stack.h
+	"boolean.h"
+
+1379123014 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 1\struktur statis\boolean.h
+
+1410889827 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 1\struktur statis\funct.c
+	"stack.h"
+
+1410924394 source:d:\pssda\soal stack\funct.c
+	"stack.h"
+
+1410924394 d:\pssda\soal stack\stack.h
+	"boolean.h"
+
+1379123014 d:\pssda\soal stack\boolean.h
+
+1410924394 source:d:\pssda\soal stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+
+1410929238 source:c:\documents and settings\d2h 01\my documents\downloads\soal stack\funct.c
+	"stack.h"
+
+1410927798 c:\documents and settings\d2h 01\my documents\downloads\soal stack\stack.h
+	"boolean.h"
+
+1379123014 c:\documents and settings\d2h 01\my documents\downloads\soal stack\boolean.h
+
+1410928480 source:c:\documents and settings\d2h 01\my documents\downloads\soal stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+

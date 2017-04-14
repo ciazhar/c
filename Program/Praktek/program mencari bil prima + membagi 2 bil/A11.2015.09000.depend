@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1458699756 source:c:\users\labdas\desktop\a11.2015.09000\main.c
+	<stdio.h>
+	<stdlib.h>
+	"rumus.h"
+
+1458699613 c:\users\labdas\desktop\a11.2015.09000\rumus.h
+
+1458699812 source:c:\users\labdas\desktop\a11.2015.09000\rumus.c
+	"rumus.h"
+

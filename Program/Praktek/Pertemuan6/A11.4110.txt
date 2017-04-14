@@ -1,0 +1,8 @@
+Sebuah perusahaan akan melakukan tes untuk penerimaan karyawan baru dengan kriteria 
+jika seorang laki laki maka tinggi badannya harus > 165 cm
+jika seorang perempuan maka tinggi badannya harus > 160 cm
+jika tinggi badan tidak memenuhi maka tidak dapat diterima
+dan apabila telah memenuhi syarat, langkah tes selanjutnya adalah kesehatan jasmani dan rohani
+jangan lupa untuk inputkan nama dan tanggal lahir
+
+buatlah sebuah program untuk penerimaan karyawan sesuai dengan kriteria diatas.

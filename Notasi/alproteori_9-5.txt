@@ -1,0 +1,108 @@
+Nama	: Muhammad Hafidz
+NIM	: A11.2015.09000
+
+jumlah	: integer
+
+procedure input (nama : array[1..10] of string,nim : array[1..10] of string, ipk : array[1..10] of float)	
+	i	: integer
+	output("masukkan jumlah mahasiswa") 
+	input(jumlah)
+	i=0
+	while(i<jumlah)do{
+		output("masukkan nama : ")
+		input(nama[i])
+		output("masukkan nim : ")
+		input(nim[i])
+		output("masukkan ipk : ")
+		input(ipk[i])
+	i=i+1
+	}
+
+procedure cetak (nama : array[1..10] of string,nim : array[1..10] of string, ipk : array[1..10] of float)
+	i 	: integer
+	i=0
+	while(i<jumlah)do{
+		output("nama : ",nama[i])
+		output("nim : ",nim[i])
+		output("ipk : ",ipk[i])
+	i=i+1
+	}
+
+procedure sortipk (nama : array[1..10] of string,nim : array[1..10] of string, ipk : array[1..10] of float)
+	i,j,tempnama,tempnim,tempipk : integer
+	i=0
+	while(i<jumlah)do{
+		j=0
+		while(j<jumlah-1)do{
+			if(ipk[j]>ipk[j+1])then{
+				tempnama=nama[j]
+				nama[j]=nama[j+1]
+				nama[j+1]=tempnama
+				tempnim=nim[j]
+				nim[j]=nim[j+1]
+				nim[j+1]=tempnim
+				tempipk=ipk[j]
+				ipk[j]=ipk[j+1]
+				ipk[j+1]=tempipk
+			}
+			j=j+1
+		}
+		i=i+1
+	}
+
+procedure searchnama (nama : array[1..10] of string,nim : array[1..10] of string, ipk : array[1..10] of float)
+	i,pass	: integer
+	cari	: string
+	pass=0
+	output("masukkan nama yang ingin dicari")
+	input(cari)
+	i=0
+	while(i<angka){
+		if(nama[i]=cari)then{
+			output(nama)
+			output(nim)
+			output(ipk)
+		}
+		i=i+1
+	}
+	if(pass=0){
+		output("nama tidak ada")
+	}
+
+procedure searchnim (nama : array[1..10] of string,nim : array[1..10] of string, ipk : array[1..10] of float)
+	i,pass	: integer
+	cari	: string
+	pass=0
+	output("masukkan nim yang ingin dicari")
+	input(cari)
+	i=0
+	while(i<angka){
+		if(nim[i]=cari)then{
+			output(nama)
+			output(nim)
+			output(ipk)
+		}
+		i=i+1
+	}
+	if(pass=0){
+		output("nama tidak ada")
+	}
+
+program mahasiswa
+	name	: array[1..10] of string
+	number	: array[1..10] of string
+	ip	: array[1..10] of float
+	i	: integer
+	
+	input(i)
+	while(i>0 and i<6)do{
+		depend on i {
+			i=1 : procedure input(name,number,ip)
+			i=2 : procedure	cetak(name,number,ip)
+			i=3 : procedure sortipk(name,number,ip)
+			i=4 : procedure searchnama(name,number,ip)
+			i=5 : procedure searchnim(name,number,ip)
+		}
+		input(i)
+	}
+	

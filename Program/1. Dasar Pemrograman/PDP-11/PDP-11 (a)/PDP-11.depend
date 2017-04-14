@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1450793910 source:c:\users\user\documents\daspro\pdp-11\array.c
+	"boolean.h"
+	"array.h"
+
+1450790575 c:\users\user\documents\daspro\pdp-11\boolean.h
+
+1450793910 c:\users\user\documents\daspro\pdp-11\array.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1450794648 source:c:\users\user\documents\daspro\pdp-11\testdriver.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1450793910 source:c:\users\user\documents\daspro\pdp-11 (a)\array.c
+	"boolean.h"
+	"array.h"
+
+1450790575 c:\users\user\documents\daspro\pdp-11 (a)\boolean.h
+
+1450793910 c:\users\user\documents\daspro\pdp-11 (a)\array.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1450794648 source:c:\users\user\documents\daspro\pdp-11 (a)\testdriver.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1450793912 source:e:\pdp-11\pdp-11 (a)\array.c
+	"boolean.h"
+	"array.h"
+
+1450790576 e:\pdp-11\pdp-11 (a)\boolean.h
+
+1450793912 e:\pdp-11\pdp-11 (a)\array.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1450794650 source:e:\pdp-11\pdp-11 (a)\testdriver.c
+	<stdio.h>
+	<stdlib.h>
+	"array.h"
+
+1450793912 source:f:\_\kuliah\[1]dasar pemrograman\pdp\pdp-11\pdp-11 (a)\array.c
+	"boolean.h"
+	"array.h"
+
+1450790576 f:\_\kuliah\[1]dasar pemrograman\pdp\pdp-11\pdp-11 (a)\boolean.h
+
+1450793912 f:\_\kuliah\[1]dasar pemrograman\pdp\pdp-11\pdp-11 (a)\array.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+

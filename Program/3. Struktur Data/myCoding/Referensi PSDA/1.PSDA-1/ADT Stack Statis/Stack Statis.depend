@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1410792456 source:c:\users\teguh\desktop\stack statis\fungsi.c
+	"head.h"
+
+1410789273 c:\users\teguh\desktop\stack statis\head.h
+	"boolean.h"
+
+1410788660 c:\users\teguh\desktop\stack statis\boolean.h
+
+1410868947 source:c:\users\teguh\desktop\stack statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"head.h"
+

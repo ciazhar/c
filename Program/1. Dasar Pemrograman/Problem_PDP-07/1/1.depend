@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449062756 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-07\1\matematika.c
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1443616772 f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-07\1\boolean.h
+

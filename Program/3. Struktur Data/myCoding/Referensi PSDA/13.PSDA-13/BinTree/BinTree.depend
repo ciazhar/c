@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1418738541 source:c:\users\teguh\desktop\bintree\bintree.c
+	"bintree.h"
+
+1418738541 "
+
+1418738541 c:\users\teguh\desktop\bintree\bintree.h
+	<stdio.h>
+	<stdlib.h>
+
+1418738541 
+
+1482680809 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/Referensi PSDA/13.PSDA-13/BinTree/bintree.c
+	"bintree.h"
+
+1482677559 /media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/Referensi PSDA/13.PSDA-13/BinTree/bintree.h
+	<stdio.h>
+	<stdlib.h>
+
+1482680826 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/Referensi PSDA/13.PSDA-13/BinTree/main.c
+	"bintree.h"
+

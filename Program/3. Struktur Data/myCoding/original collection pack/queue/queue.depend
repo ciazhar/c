@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477196381 source:/home/hafidz/Desktop/queue/main.c
+	"queue.h"
+
+1477196169 /home/hafidz/Desktop/queue/queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1477196279 source:/home/hafidz/Desktop/queue/queue.c
+	"queue.h"
+

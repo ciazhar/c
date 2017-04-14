@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1459566456 source:f:\_\kuliah\[2]algoritma pemrograman\tugas\pap 5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1459566526 source:f:\_\kuliah\[2]algoritma pemrograman\tugas\pap 5\pustaka.c
+	"pustaka.h"
+
+1459566192 f:\_\kuliah\[2]algoritma pemrograman\tugas\pap 5\pustaka.h
+
+1459645846 source:f:\_\kuliah\[2]algoritma pemrograman\tugas\pap-5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1459777722 source:f:\_\kuliah\[2]algoritma pemrograman\tugas\pap-5\pustaka.c
+	"pustaka.h"
+
+1459644560 f:\_\kuliah\[2]algoritma pemrograman\tugas\pap-5\pustaka.h
+
+1459645846 source:h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-5\main.c
+	<stdio.h>
+	<stdlib.h>
+

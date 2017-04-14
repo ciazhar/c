@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1411382374 source:f:\data kuliah\semester 3\strukdat\psda 2\alternatif3\fungsi.c
+	"header.h"
+
+1411340485 f:\data kuliah\semester 3\strukdat\psda 2\alternatif3\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411340501 f:\data kuliah\semester 3\strukdat\psda 2\alternatif3\boolean.h
+
+1411382649 source:f:\data kuliah\semester 3\strukdat\psda 2\alternatif3\main.c
+	"header.h"
+
+1411382720 source:d:\kuliah\semester 3\struktur data\struktur.data\tiaz\alternatif3\fungsi.c
+	"header.h"
+
+1411340486 d:\kuliah\semester 3\struktur data\struktur.data\tiaz\alternatif3\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411340502 d:\kuliah\semester 3\struktur data\struktur.data\tiaz\alternatif3\boolean.h
+
+1411382650 source:d:\kuliah\semester 3\struktur data\struktur.data\tiaz\alternatif3\main.c
+	"header.h"
+

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1482082760 source:c:\users\my pc\documents\list\queuepriority\driver.c
+	"header.h"
+
+1482082820 c:\users\my pc\documents\list\queuepriority\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1482081533 source:c:\users\my pc\documents\list\queuepriority\main.c
+	"header.h"
+
+1482112472 source:f:\[3] struktur data\19-12\pemahaman\soal\main.c
+	"header.h"
+
+1482082822 f:\[3] struktur data\19-12\pemahaman\soal\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1482112506 source:f:\[3] struktur data\19-12\pemahaman\soal\driver.c
+	"header.h"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1417529500 source:c:\users\teguh\desktop\stacklink\main.c
+	"stacklink.h"
+
+1417529500 c:\users\teguh\desktop\stacklink\stacklink.h
+	<stdio.h>
+	<stdlib.h>
+
+1417529500 source:c:\users\teguh\desktop\stacklink\stacklink.c
+	"stacklink.h"
+

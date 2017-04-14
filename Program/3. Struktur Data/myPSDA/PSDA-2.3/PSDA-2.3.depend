@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1474844380 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/myPSDA/PSDA-2.3/main.c
+	"pustaka.h"
+	"boolean.h"
+
+1474844380 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/myPSDA/PSDA-2.3/pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1474816003 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/myPSDA/PSDA-2.3/boolean.h
+
+1474844414 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/myPSDA/PSDA-2.3/pustaka.c
+	"pustaka.h"
+	"boolean.h"
+

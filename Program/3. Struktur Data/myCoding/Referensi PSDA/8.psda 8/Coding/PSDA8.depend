@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1385964380 source:g:\psda8\main.c
+	"container.h"
+
+1385451506 .h"
+
+1385954790 g:\psda8\container.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1385379986 
+
+1385361660 g:\psda8\boolean.h
+
+1385429708 source:f:\psda8\main.c
+	"container.h"
+
+1385437162 f:\psda8\container.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1385361660 f:\psda8\boolean.h
+
+1385393944 source:/home/tealinux/latihan_StrukDat/PSDA8/main.c
+	"container.h"
+
+1385393765 /home/tealinux/latihan_StrukDat/PSDA8/container.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1385361660 /home/tealinux/latihan_StrukDat/PSDA8/boolean.h
+
+1385885546 source:/home/doscom/ikhsan/latihan/PSDA8/main.c
+	"container.h"
+	"container.h"
+
+1385885164 /home/doscom/ikhsan/latihan/PSDA8/container.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1385361660 /home/doscom/ikhsan/latihan/PSDA8/boolean.h
+
+1385864624 source:/home/ikhsan/latihan/PSDA8/main.c
+	"container.h"
+
+1385869896 /home/ikhsan/latihan/PSDA8/container.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1385361660 /home/ikhsan/latihan/PSDA8/boolean.h
+
+1385954816 source:g:\psda8\check.c
+	"container.h"
+
+1385954816 source:g:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 08\coding\check.c
+	"container.h"
+
+1385954790 g:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 08\coding\container.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1385361660 g:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 08\coding\boolean.h
+
+1385964380 source:g:\vander\kuliyah ti udinus\semester 3\struktur data\jawaban psda\psda - 08\coding\main.c
+	"container.h"
+
+1385904416 source:e:\jawaban psda\psda - 08\coding\check.c
+	"container.h"
+
+1385904390 e:\jawaban psda\psda - 08\coding\container.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1385311260 e:\jawaban psda\psda - 08\coding\boolean.h
+
+1385913980 source:e:\jawaban psda\psda - 08\coding\main.c
+	"container.h"
+

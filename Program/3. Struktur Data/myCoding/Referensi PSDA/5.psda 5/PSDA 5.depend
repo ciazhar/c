@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1445184322 source:h:\psda 5\funct.c
+	"list.h"
+
+1445184586 h:\psda 5\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380756332 h:\psda 5\boolean.h
+
+1445184322 source:f:\psda 5\funct.c
+	"list.h"
+
+1445184586 f:\psda 5\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380756332 f:\psda 5\boolean.h
+
+1445219200 source:f:\psda 5\main.c
+	"list.h"
+
+1445219200 source:e:\new folder (3)\psda 5\main.c
+	"list.h"
+
+1445184586 e:\new folder (3)\psda 5\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380756332 e:\new folder (3)\psda 5\boolean.h
+
+1445222555 source:e:\new folder (3)\a111408157\funct.c
+	"list.h"
+
+1445184586 e:\new folder (3)\a111408157\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380756332 e:\new folder (3)\a111408157\boolean.h
+

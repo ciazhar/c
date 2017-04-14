@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1449720576 source:i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-09\ftanggal\drvtanggal.c
+	"tanggal.h"
+	"boolean.h"
+
+1449654668 i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-09\ftanggal\tanggal.h
+	"boolean.h"
+
+1449720696 i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-09\ftanggal\boolean.h
+
+1449707126 source:i:\_\kuliah\dasar pemrograman\tugas\problem_pdp-09\ftanggal\tanggal.c
+	"tanggal.h"
+	"boolean.h"
+

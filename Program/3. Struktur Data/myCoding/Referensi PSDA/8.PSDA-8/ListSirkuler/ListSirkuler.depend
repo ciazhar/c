@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1416318185 source:c:\users\teguh\desktop\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1416318185 c:\users\teguh\desktop\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1416318841 source:c:\users\teguh\desktop\listsirkuler\main.c
+	"listsirkuler.h"
+
+1416318185 source:c:\users\teguh\desktop\psda-8\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1416318185 c:\users\teguh\desktop\psda-8\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+
+1416322650 source:c:\users\teguh\desktop\psda-8\listsirkuler\main.c
+	"listsirkuler.h"
+
+1416318186 source:d:\strukday\psda-8\listsirkuler\listsirkuler.c
+	"listsirkuler.h"
+
+1416318186 d:\strukday\psda-8\listsirkuler\listsirkuler.h
+	<stdio.h>
+	<stdlib.h>
+

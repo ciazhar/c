@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1379566395 source:g:\tugas2 skolah\udinus\semester 3\struktur data\queue a1\main.c
+	"queue.h"
+
+1379566395 g:\tugas2 skolah\udinus\semester 3\struktur data\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 g:\tugas2 skolah\udinus\semester 3\struktur data\queue a1\boolean.h
+
+1379566424 source:g:\tugas2 skolah\udinus\semester 3\struktur data\queue a1\funct.c
+	"queue.h"
+
+1379566424 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\psda\queue a1\funct.c
+	"queue.h"
+
+1379566395 g:\tugas2 skolah\udinus\semester 3\projek struktur data\psda\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 g:\tugas2 skolah\udinus\semester 3\projek struktur data\psda\queue a1\boolean.h
+
+1379566706 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a1\main.c
+	"queue.h"
+
+1380467444 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a1\boolean.h
+
+1379566424 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a1\funct.c
+	"queue.h"
+
+1379566706 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 2\queue a1\main.c
+	"queue.h"
+
+1410862559 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 2\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 2\queue a1\boolean.h
+
+1379566424 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 2\queue a1\funct.c
+	"queue.h"
+
+1413917340 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\queue a1\main.c
+	"queue.h"
+
+1413917069 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\queue a1\boolean.h
+
+1413917340 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\queue a1\funct.c
+	"queue.h"
+
+1413948116 source:c:\documents and settings\labdas\desktop\labdas\queue a1\funct.c
+	"queue.h"
+
+1413948116 c:\documents and settings\labdas\desktop\labdas\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524460 c:\documents and settings\labdas\desktop\labdas\queue a1\boolean.h
+
+1413953665 source:c:\documents and settings\labdas\desktop\labdas\queue a1\main.c
+	"queue.h"
+

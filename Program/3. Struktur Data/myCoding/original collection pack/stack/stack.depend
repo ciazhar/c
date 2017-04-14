@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1477193775 source:/home/hafidz/Desktop/stack/main.c
+	"header.h"
+
+1477193914 /home/hafidz/Desktop/stack/header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1477193988 source:/home/hafidz/Desktop/stack/stack.c
+	"header.h"
+

@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1476673454 source:f:\[3] struktur data\temp 17 okt\listwithdummy\main.c
+	"header.h"
+
+1476673340 f:\[3] struktur data\temp 17 okt\listwithdummy\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1476672394 f:\[3] struktur data\temp 17 okt\listwithdummy\boolean.h
+
+1476673536 source:f:\[3] struktur data\temp 17 okt\listwithdummy\listwithdummy.c
+	"header.h"
+

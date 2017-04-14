@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1477266248 source:/media/hafidz/E210-C72A/[3] Struktur Data/myPSDA/PSDA-7/pustaka.c
+	"pustaka.h"
+
+1477266248 /media/hafidz/E210-C72A/[3] Struktur Data/myPSDA/PSDA-7/pustaka.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1475982122 /media/hafidz/E210-C72A/[3] Struktur Data/myPSDA/PSDA-7/boolean.h
+

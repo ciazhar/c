@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1480268968 source:c:\users\my pc\documents\list\queuelist\driver.c
+	"header.h"
+
+1480269051 c:\users\my pc\documents\list\queuelist\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1480269051 source:c:\users\my pc\documents\list\queuelist\main.c
+	"header.h"
+
+1480577622 source:c:\users\my pc\documents\list\soal stack queue representasi list\queuelist\driver.c
+	"header.h"
+
+1480577399 c:\users\my pc\documents\list\soal stack queue representasi list\queuelist\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1480577665 source:c:\users\my pc\documents\list\soal stack queue representasi list\queuelist\main.c
+	"header.h"
+
+1480584712 source:f:\[3] struktur data\1-12\pemahaman\soal\driver.c
+	"header.h"
+
+1480577400 f:\[3] struktur data\1-12\pemahaman\soal\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1480584800 source:f:\[3] struktur data\1-12\pemahaman\soal\main.c
+	"header.h"
+

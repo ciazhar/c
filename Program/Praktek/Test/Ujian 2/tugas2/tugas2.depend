@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1444277674 source:h:\tugas2\main.c
+	<stdio.h>
+	<stdlib.h>
+

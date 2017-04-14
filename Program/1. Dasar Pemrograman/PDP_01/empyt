@@ -1,0 +1,7 @@
+#include ìboolean.hî
+int main () {
+printf(ìMen-Test File boolean.h \nî);
+boolean betul=true;
+printf(ìvariabel betul desimal: %d\nî, betul);
+printf(ìvariabel betul:%s\nî,betul?îtrueî:îfalseî);
+}

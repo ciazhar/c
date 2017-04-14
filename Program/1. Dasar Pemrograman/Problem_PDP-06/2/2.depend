@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1448366604 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-06\2\tebak.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

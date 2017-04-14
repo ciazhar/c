@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1448514258 source:c:\users\labdas\pictures\hussein\fungsi pengurangan\main.c
+	"header.h"
+
+1448514140 c:\users\labdas\pictures\hussein\fungsi pengurangan\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1448514296 source:c:\users\labdas\pictures\hussein\fungsi pengurangan\fungsii.c
+	"header.h"
+

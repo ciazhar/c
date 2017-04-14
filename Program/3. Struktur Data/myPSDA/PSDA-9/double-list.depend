@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1479695778 source:f:\[3] struktur data\temp 21-11\double-list\double-list.c
+	"header.h"
+
+1479695628 
+
+1479696018 f:\[3] struktur data\temp 21-11\double-list\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1479695628 source:f:\[3] struktur data\temp 21-11\double-list\main.c
+	"header.h"
+
+1480291147 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-9/main.c
+	"header.h"
+
+1480291311 /media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-9/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1480291114 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-9/double-list.c
+	"header.h"
+

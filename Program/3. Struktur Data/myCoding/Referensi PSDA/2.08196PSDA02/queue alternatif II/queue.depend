@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1380439164 source:d:\kuliah\semester3\strukdat\project\psda-02\queue\queue.c
+	"Queue.h"
+
+1380535460 
+
+1380436463 d:\kuliah\semester3\strukdat\project\psda-02\queue\queue.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1380515080 
+
+1380203025 d:\kuliah\semester3\strukdat\project\psda-02\queue\boolean.h
+
+1380437294 source:d:\kuliah\semester3\strukdat\project\psda-02\queue\driverqueue.c
+	"Queue.h"
+
+1380535284 source:d:\kuliah\semester3\strukdat\project\psda-02\queue alternatif ii\driverqueue.c
+	"Queue.h"
+
+1380515079 d:\kuliah\semester3\strukdat\project\psda-02\queue alternatif ii\queue.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1380203025 d:\kuliah\semester3\strukdat\project\psda-02\queue alternatif ii\boolean.h
+
+1380535459 source:d:\kuliah\semester3\strukdat\project\psda-02\queue alternatif ii\queue.c
+	"Queue.h"
+
+1380536334 source:h:\psda\psda 2\psda-02\queue alternatif ii\driverqueue.c
+	"Queue.h"
+
+1380515080 h:\psda\psda 2\psda-02\queue alternatif ii\queue.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1380203026 h:\psda\psda 2\psda-02\queue alternatif ii\boolean.h
+
+1380535460 source:h:\psda\psda 2\psda-02\queue alternatif ii\queue.c
+	"Queue.h"
+
+1380536334 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/2.08196PSDA02/queue alternatif II/DriverQueue.c
+	"Queue.h"
+
+1380515080 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/2.08196PSDA02/queue alternatif II/Queue.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1380203026 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/2.08196PSDA02/queue alternatif II/boolean.h
+
+1380535460 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/2.08196PSDA02/queue alternatif II/Queue.c
+	"Queue.h"
+

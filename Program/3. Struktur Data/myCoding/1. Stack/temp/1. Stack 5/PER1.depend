@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1442467752 source:d:\a11.2014.08196 udinus\a11.08196 materi smt 3\a11.4315 strukdat\per1\function.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+
+1442761486 
+
+1442468022 d:\a11.2014.08196 udinus\a11.08196 materi smt 3\a11.4315 strukdat\per1\stack.h
+	"boolean.h"
+
+1442468022 "
+
+1442467617 d:\a11.2014.08196 udinus\a11.08196 materi smt 3\a11.4315 strukdat\per1\boolean.h
+
+1442761486 source:d:\a11.2014.08196 udinus\a11.08196 materi smt 3\a11.4315 strukdat\per1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+
+1442761486 source:/media/hafidz/SMA LIMB/Struktur Data/Soal Pemahaman/PER1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+
+1442468022 /media/hafidz/SMA LIMB/Struktur Data/Soal Pemahaman/PER1/stack.h
+	"boolean.h"
+
+1442467616 /media/hafidz/SMA LIMB/Struktur Data/Soal Pemahaman/PER1/boolean.h
+
+1442761486 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+
+1442468022 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 5/stack.h
+	"boolean.h"
+
+1442467616 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 5/boolean.h
+

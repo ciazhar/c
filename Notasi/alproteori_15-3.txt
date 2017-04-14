@@ -1,0 +1,93 @@
+function hitungdus(pj : real, lb : real) -->integer
+
+///Kamus
+
+Luas : integer
+
+L_tekelperdus : real = 0,4*0,4*9
+
+dusr : real
+
+dusi : integer
+
+dus :integer
+
+///Deskripsi
+
+Luas = pj*lb
+
+dusr = Luas/L_tekelperdus
+
+dusi = Luas div L_tekelperdus
+
+if(dusr mod 1 != 0) then
+
+	{dus=dusi +1}
+
+else {dus=dusr}
+
+---> dus
+
+function hitungdana(dus : integer) --> integer
+
+///Kamus
+
+dana : integer
+
+harga_perdus : integer = 0,4*0,4*9*140000
+
+///Deskripsi
+
+dana = dus * harga_perdus
+
+-->dana
+
+function hitungpecah(pj : real, lb : real, pj_skat : real) --> integer
+
+///Kamus
+
+p_skat_r : real
+
+p_skat_i : integer
+
+p_skat : integer
+	
+///Deskripsi
+
+p_skat_r = pj_skat/40
+
+p_skat_i = pj_skat div 40
+
+if(pj_skat mod 40 !=0) then
+
+	{p_skat=p_skat_i+1}
+
+else 
+	{p_skat=p_skat_r}
+
+if(pj mod 40 != 0) then
+
+	{if(lb mod 40 !=0) then
+		
+		{p_pj = lb div 40 +1}
+	
+	else
+		{p_pj=lb/40}
+	
+	}
+
+else 
+	{p_pj = 0}
+
+if(lb mod 40 != 0) then
+
+	{if(pj mod 40 != 0) then
+
+		{p_lb=pj div 40+1}
+
+	else
+		
+		{p_lb=pj/40}
+	}
+else	
+	{p_lb=0}

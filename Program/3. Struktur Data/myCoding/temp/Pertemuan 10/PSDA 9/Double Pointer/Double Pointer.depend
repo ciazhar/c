@@ -1,0 +1,71 @@
+# depslib dependency file v1.0
+1386173119 source:e:\university\semester 3\struktur data\tugas\psda 9\double pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1386173063 source:e:\university\semester 3\struktur data\tugas\psda 9\double pointer\fungsi.c
+	"header.h"
+
+1386172785 e:\university\semester 3\struktur data\tugas\psda 9\double pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1386166858 e:\university\semester 3\struktur data\tugas\psda 9\double pointer\boolean.h
+
+1386506095 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 9\double pointer\fungsi.c
+	"header.h"
+
+1386505037 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 9\double pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1386166860 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 9\double pointer\boolean.h
+
+1386173120 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 9\double pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1416963548 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\psda 9\double pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1416961250 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\psda 9\double pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1386166860 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\psda 9\double pointer\boolean.h
+
+1416961250 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\psda 9\double pointer\fungsi.c
+	"header.h"
+
+1416972438 source:d:\mad\psda 9\double pointer\fungsi.c
+	"header.h"
+
+1416972438 d:\mad\psda 9\double pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1416966576 d:\mad\psda 9\double pointer\boolean.h
+
+1416977838 source:c:\documents and settings\labdas\my documents\downloads\psda 9\double pointer\fungsi.c
+	"header.h"
+
+1416972438 c:\documents and settings\labdas\my documents\downloads\psda 9\double pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1416966576 c:\documents and settings\labdas\my documents\downloads\psda 9\double pointer\boolean.h
+
+1416978617 source:c:\documents and settings\labdas\my documents\downloads\psda 9\double pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

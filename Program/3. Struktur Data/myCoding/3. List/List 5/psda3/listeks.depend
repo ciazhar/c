@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1443946501 source:c:\users\ryan\desktop\struktur data\pert-3\psda3\listeks.c
+	"listeks.h"
+
+1443946436 c:\users\ryan\desktop\struktur data\pert-3\psda3\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 c:\users\ryan\desktop\struktur data\pert-3\psda3\boolean.h
+
+1443952826 source:c:\users\ryan\desktop\struktur data\pert-3\soal\psda3\main.c
+	"listeks.h"
+
+1443946436 c:\users\ryan\desktop\struktur data\pert-3\soal\psda3\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 c:\users\ryan\desktop\struktur data\pert-3\soal\psda3\boolean.h
+

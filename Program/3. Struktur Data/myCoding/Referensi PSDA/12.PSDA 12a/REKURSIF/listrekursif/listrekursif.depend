@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1352909951 source:c:\users\asus\desktop\listrekursif\main.c
+	"listrekursif.h"
+
+1352907675 c:\users\asus\desktop\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1352909836 source:c:\users\asus\desktop\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1352909951 source:d:\kuliah\struktur data\jawaban\psda12a\listrekursif\main.c
+	"listrekursif.h"
+
+1352910683 d:\kuliah\struktur data\jawaban\psda12a\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1352910683 source:d:\kuliah\struktur data\jawaban\psda12a\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1352910684 source:g:\psda12\psda 12a\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1352910684 g:\psda12\psda 12a\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1352910726 source:g:\psda12\psda 12a\listrekursif\main.c
+	"listrekursif.h"
+
+1389085678 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 12a\rekursif\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1389085678 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 12a\rekursif\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1389085712 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 12a\rekursif\listrekursif\main.c
+	"listrekursif.h"
+
+1389136080 source:g:\psda 12a\rekursif\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1389136080 g:\psda 12a\rekursif\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1389136234 source:g:\psda 12a\rekursif\listrekursif\main.c
+	"listrekursif.h"
+

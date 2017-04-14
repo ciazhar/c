@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1444824392 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\3.relasional\main.c
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1443616772 f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\3.relasional\boolean.h
+
+1444825512 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\3.relasional\0.c
+	<stdio.h>
+	<stdlib.h>
+
+1444825806 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\3.relasional\1.c
+

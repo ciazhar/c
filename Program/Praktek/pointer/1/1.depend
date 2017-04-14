@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1463540088 source:h:\_\kuliah\[2]algoritma pemrograman\praktek\pointer\1\pustaka.c
+	"pustaka.h"
+
+1463539878 h:\_\kuliah\[2]algoritma pemrograman\praktek\pointer\1\pustaka.h
+
+1463540058 source:h:\_\kuliah\[2]algoritma pemrograman\praktek\pointer\1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+

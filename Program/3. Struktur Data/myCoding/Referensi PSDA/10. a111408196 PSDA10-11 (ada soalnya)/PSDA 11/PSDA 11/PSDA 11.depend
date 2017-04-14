@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1385316878 source:g:\struktur data\psda 11\psda 11\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1449385412 source:g:\struktur data\psda 11\psda 11\check.c
+	"container.h"
+
+1449385302 g:\struktur data\psda 11\psda 11\container.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1449385302 g:\struktur data\psda 11\psda 11\boolean.h
+

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1410855320 source:g:\adt stack dinamis~\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1410854832 g:\adt stack dinamis~\header.h
+
+1410855228 source:g:\adt stack dinamis~\stackfungsi.c
+	"header.h"
+
+1410870569 source:c:\users\teguh\desktop\adt stack dinamis~\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1410854832 c:\users\teguh\desktop\adt stack dinamis~\header.h
+
+1410870531 source:c:\users\teguh\desktop\adt stack dinamis~\stackfungsi.c
+	"header.h"
+
+1410870569 source:c:\users\teguh\desktop\adt stack dinamis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1410854832 c:\users\teguh\desktop\adt stack dinamis\header.h
+
+1410870531 source:c:\users\teguh\desktop\adt stack dinamis\stackfungsi.c
+	"header.h"
+
+1410870569 source:c:\users\teguh\desktop\psda 1\adt stack dinamis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1410854832 c:\users\teguh\desktop\psda 1\adt stack dinamis\header.h
+
+1410870531 source:c:\users\teguh\desktop\psda 1\adt stack dinamis\stackfungsi.c
+	"header.h"
+
+1410870569 source:c:\users\teguh\google drive\belajar\semester 3\struktur data\psda-1\adt stack dinamis\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1410854832 c:\users\teguh\google drive\belajar\semester 3\struktur data\psda-1\adt stack dinamis\header.h
+
+1410870531 source:c:\users\teguh\google drive\belajar\semester 3\struktur data\psda-1\adt stack dinamis\stackfungsi.c
+	"header.h"
+

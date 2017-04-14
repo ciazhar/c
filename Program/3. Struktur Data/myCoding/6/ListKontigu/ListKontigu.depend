@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1476068282 source:h:\[3] struktur data\temp 10 okt\listkontigu\main.c
+	"pustaka.h"
+
+1476068056 h:\[3] struktur data\temp 10 okt\listkontigu\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1476068232 source:h:\[3] struktur data\temp 10 okt\listkontigu\pustaka.c
+	"pustaka.h"
+

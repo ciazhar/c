@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1442904254 source:h:\_\kuliah\pemrograman\input_output\main.c
+	<stdio.h>
+	<stdlib.h>
+

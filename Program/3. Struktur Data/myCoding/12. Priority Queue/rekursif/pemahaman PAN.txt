@@ -1,0 +1,7 @@
+Soal Pemahaman Rekursif
+
+1. Buatlah fungsi JumKelipatan3(List L) untuk menjumlahkan seluruh elemen dimana elemen tersebut kelipatan 3 
+contoh : 1 3 4 9 18 = 30
+
+2. Buatlah prosedur PrintKelipatan3(List L) untuk mencetak elemen dimana elemen tersebut kelipatan 3
+contoh : 1 3 4 9 18 = 3 9 18

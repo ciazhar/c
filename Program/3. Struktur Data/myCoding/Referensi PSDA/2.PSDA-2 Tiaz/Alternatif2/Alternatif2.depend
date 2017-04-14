@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1411339615 source:f:\data kuliah\semester 3\strukdat\psda 2\alternatif2\fungsi.c
+	"header.h"
+
+1411044355 f:\data kuliah\semester 3\strukdat\psda 2\alternatif2\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411041468 f:\data kuliah\semester 3\strukdat\psda 2\alternatif2\boolean.h
+
+1411339719 source:f:\data kuliah\semester 3\strukdat\psda 2\alternatif2\main.c
+	"header.h"
+

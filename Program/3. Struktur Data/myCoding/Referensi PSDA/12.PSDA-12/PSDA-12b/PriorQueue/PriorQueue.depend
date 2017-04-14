@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1418129240 source:c:\users\teguh\desktop\priorqueue\main.c
+	"priorqueue.h"
+
+1418129240 c:\users\teguh\desktop\priorqueue\priorqueue.h
+	<stdio.h>
+	<stdlib.h>
+
+1418129240 source:c:\users\teguh\desktop\priorqueue\priorqueue.c
+	"priorqueue.h"
+

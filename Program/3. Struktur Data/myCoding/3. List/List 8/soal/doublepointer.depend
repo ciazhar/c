@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1353923552 source:c:\users\asus\desktop\doublepointer\doublepointer.c
+	"doublepointer.h"
+
+1353922843 c:\users\asus\desktop\doublepointer\doublepointer.h
+	<stdio.h>
+	<stdlib.h>
+
+1353923196 source:c:\users\asus\desktop\doublepointer\main.c
+	"doublepointer.h"
+
+1448819895 source:c:\users\ryan\desktop\struktur data\pert-8\doublepointer\doublepointer.c
+	"doublepointer.h"
+
+1448815862 c:\users\ryan\desktop\struktur data\pert-8\doublepointer\doublepointer.h
+	<stdio.h>
+	<stdlib.h>
+
+1448819786 source:c:\users\ryan\desktop\struktur data\pert-8\doublepointer\main.c
+	"doublepointer.h"
+
+1448821182 source:c:\users\ryan\desktop\struktur data\pert-8\soal\doublepointer.c
+	"doublepointer.h"
+
+1448815862 c:\users\ryan\desktop\struktur data\pert-8\soal\doublepointer.h
+	<stdio.h>
+	<stdlib.h>
+
+1448821182 source:c:\users\ryan\desktop\struktur data\pert-8\soal\main.c
+	"doublepointer.h"
+

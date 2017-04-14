@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462935424 source:h:\_\kuliah\[2]algoritma pemrograman\praktek\rekursifarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1462934238 h:\_\kuliah\[2]algoritma pemrograman\praktek\rekursifarray\pustaka.h
+
+1462936378 source:h:\_\kuliah\[2]algoritma pemrograman\praktek\rekursifarray\pustaka.c
+	"pustaka.h"
+

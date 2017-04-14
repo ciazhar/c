@@ -1,0 +1,41 @@
+1. Tulis apa yang anda ketahui tentang :
+	a. Stack
+	b. Queue
+	c. List Linier
+	Apa Perbedaannya ?
+jawab :
+a. stack yaitu bentuk khusus dari strukdata, dimana node yang ditambahkan
+		dalam list dan diambil dari list hanya pada kepalanya
+		Last In First Out (LIFO)
+
+b. Queue yaitu untuk menyimpan informasi sama seperti stack, queue memiliki
+		karakteristik First In First Out (FIFO)
+c. List Linier yaitu kumpulan dari elemen bertipe sama
+		Type ElmtList: <Info: InfoType, Next : address>
+		
+
+bedanya : 
+pada FUNGSI UTAMA
+	A. Stack  (tumpukan)
+		TOP
+		PUSH (menambahkan node)
+		pake POP (menghapus node)
+"kotak"
+"kotak"
+"kotak"
+"kotak"
+"kotak"
+
+	B. Queue FUNGSI UTAMA (antrian)
+		HEAD
+		TAIL
+		ADD / Enqueue (menambah data pd tail elmt)
+		DEL / Dequeue (menghapus data pd head elmt)
+
+"kotak"  "kotak"  "kotak" "kotak"
+
+	C. ListLinier (sepur)
+		First: menunjukkan elmt pertama
+		Next : Alamat elemen suksesor
+		Info : Informasi mengenai elemen
+"kotak" -> "kotak" -> "kotak" -> "kotak"

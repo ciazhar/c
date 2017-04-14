@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1444604534 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\1\aritmatika.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1444567814 source:g:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\1\aritmatika.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1444605528 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\1\3.c
+
+1444775178 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\1\1.c
+	<stdio.h>
+	<stdlib.h>
+
+1444605528 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\1\2.c
+	<stdio.h>
+	<stdlib.h>
+
+1444775330 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-03\1\4.c
+

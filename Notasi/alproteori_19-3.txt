@@ -1,0 +1,104 @@
+Nama	: Muhammad Hafidz
+NIM 	: A11.2015.09000
+Kel	: A11.4210
+
+
+Tugas Alpro Sorting
+
+1.
+
+Judul : Program Sorting 1
+
+
+{program sorting dengan membandingkan data ke-i dengan data ke-j. Jika kondisi terpenuhi dilakukan swap, jika tidak level i dinaikkan dengan iterasi sesuai kondisi. Setelah berhasil swap level j dinaikkan dan proses pembandingan data ke-i dengan data ke -j dilanjutkan kembali}
+
+Kamus : 
+data	: array[1..16] of integer
+i=1,j=2	: integer
+k,temp	: integer
+
+while(j<16)do{
+	while(i<j)do{
+		if(data_i>data_j)then{
+			k=j
+			while(k>i)do{
+				temp=data_k
+				data_k=data_k-1
+				data_k-1=data_k
+				k=k-1
+			}
+		}
+		i++
+	}
+	j++
+	i=1
+}
+
+2.
+
+Judul : Program Sorting 2
+
+{program sorting dengan metode membandingkan data ke-j dan data ke-j+1 yang terus diiterasi, lalu mencari nilai minimum dari setiap proses perbandingan, dan melakukan swap data ke-i dengan hasil minimum yang terus diiterasi} 
+
+Kamus :
+data	: array[1..16] of integer
+temp	: integer
+i=1,j=1	: integer
+min	: integer 
+
+Algoritma : 
+while(i<16)do{	
+	while(j<16)do{
+		if(dataj<dataj+1)then{
+			min=j
+		}
+		else {
+			min=j+1
+		}
+		j=j+1
+	}
+	temp=data_i
+	data_i=data_min
+	data_min=data_i
+	i=i+1
+	j=i
+}
+
+
+
+
+
+
+
+3.
+
+Judul : Program Sorting 3
+{program sorting dengan membandingkan data ke-j dan data ke-j+1 yang terus diiterasi, lalu melakukan swap apabila kondisi perbandigan terpenuhi, dan terus mengulang sampai kondisi yang ditentukan}
+
+Kamus :
+data	: array[1..16] of integer
+temp	: integer
+i=1,j=1	: integer
+
+Algoritma :
+while(i<16)do{	
+	while(j<16)do{
+		if(data_j>data_j+1)then{
+			temp=data_j
+			data_j=data_j+1
+			data_j+1=temp
+		}
+		j=j+1
+	}
+	j=1
+	i=i+1
+}
+
+
+
+
+
+
+
+
+

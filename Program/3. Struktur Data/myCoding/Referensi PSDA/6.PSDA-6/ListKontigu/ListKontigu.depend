@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1413297175 source:c:\users\teguh\desktop\listkontigu\kontigu.c
+	"kontigu.h"
+
+1413297077 c:\users\teguh\desktop\listkontigu\kontigu.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1413297043 c:\users\teguh\desktop\listkontigu\boolean.h
+
+1413297174 source:c:\users\teguh\desktop\listkontigu\main.c
+	"kontigu.h"
+

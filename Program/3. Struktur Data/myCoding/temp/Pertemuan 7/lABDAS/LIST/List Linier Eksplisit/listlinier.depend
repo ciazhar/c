@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\main.c
+	"list.h"
+
+1380952680 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\funct.c
+	"list.h"
+
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1380982750 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1413359968 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1413359926 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 3\list linier eksplisit\boolean.h
+
+1413359926 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1413361632 source:d:\mad\labdas\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1413362618 d:\mad\labdas\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 d:\mad\labdas\psda 3\list linier eksplisit\boolean.h
+

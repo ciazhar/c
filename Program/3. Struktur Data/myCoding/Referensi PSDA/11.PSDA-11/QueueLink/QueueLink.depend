@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1417529760 source:c:\users\teguh\desktop\queuelink\main.c
+	"queuelink.h"
+
+1417529710 c:\users\teguh\desktop\queuelink\queuelink.h
+	<stdio.h>
+	<stdlib.h>
+
+1417529710 source:c:\users\teguh\desktop\queuelink\queuelink.c
+	"queuelink.h"
+

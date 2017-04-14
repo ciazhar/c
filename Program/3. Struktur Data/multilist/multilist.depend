@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1482126158 source:/home/hafidz/Desktop/multilist/main.c
+	"header.h"
+
+1482391274 /home/hafidz/Desktop/multilist/header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1482126918 source:/home/hafidz/Desktop/multilist/multilist.c
+	"header.h"
+

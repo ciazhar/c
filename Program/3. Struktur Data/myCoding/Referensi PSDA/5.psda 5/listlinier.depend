@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\main.c
+	"list.h"
+
+1380952680 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\funct.c
+	"list.h"
+
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1380982750 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1381827452 source:g:\tugas2 skolah\udinus\semester 3\struktur data\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1381827138 g:\tugas2 skolah\udinus\semester 3\struktur data\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\psda 3\list linier eksplisit\boolean.h
+
+1381827452 source:g:\tugas2 skolah\udinus\semester 3\struktur data\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1381901679 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 5\list linier tabel\main.c
+	"list.h"
+
+1381892778 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 5\list linier tabel\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 5\list linier tabel\boolean.h
+
+1382493076 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 5\list linier tabel\funct.c
+	"list.h"
+
+1381952080 source:d:\kuliah\semester 3\ajar\psda full\psda 5\list linier tabel\main.c
+	"list.h"
+
+1381943180 d:\kuliah\semester 3\ajar\psda full\psda 5\list linier tabel\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380756332 d:\kuliah\semester 3\ajar\psda full\psda 5\list linier tabel\boolean.h
+
+1383338012 source:d:\kuliah\semester 3\ajar\psda full\psda 5\list linier tabel\funct.c
+	"list.h"
+
+1445184320 source:e:\kuliah\struktur data\cd struktur data\psda\psda 5\list linier tabel\funct.c
+	"list.h"
+
+1445184584 e:\kuliah\struktur data\cd struktur data\psda\psda 5\list linier tabel\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380756332 e:\kuliah\struktur data\cd struktur data\psda\psda 5\list linier tabel\boolean.h
+
+1445183445 source:e:\kuliah\struktur data\cd struktur data\psda\psda 5\list linier tabel\main.c
+	"list.h"
+

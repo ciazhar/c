@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1482394871 source:/home/hafidz/Desktop/chalenge/fungsi.c
+	"header.h"
+
+1482394918 /home/hafidz/Desktop/chalenge/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1482389832 source:/home/hafidz/Desktop/chalenge/main.c
+	"header.h"
+

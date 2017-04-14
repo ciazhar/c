@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1417073535 source:e:\kuliah\labdas\date\main.c
+	"drive.h"
+
+1417073338 e:\kuliah\labdas\date\drive.h
+	<stdio.h>
+	<stdlib.h>
+
+1417073345 source:e:\kuliah\labdas\date\drive.c
+	"drive.h"
+
+1417358161 source:d:\daspro\program\latihan\date\drive.c
+	"drive.h"
+
+1417356348 d:\daspro\program\latihan\date\drive.h
+	<stdio.h>
+	<stdlib.h>
+
+1417357098 source:d:\daspro\program\latihan\date\main.c
+	"drive.h"
+

@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1355038211 source:d:\ady's documentz\kuliah reguler\semester 3\struktur data\psda 11\queue.c
+	"Queue.h"
+
+1355037229 d:\ady's documentz\kuliah reguler\semester 3\struktur data\psda 11\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1355038357 source:d:\ady's documentz\kuliah reguler\semester 3\struktur data\psda 11\main.c
+	"Queue.h"
+
+1416936863 source:d:\ady's documentz\kuliah reguler\semester 3\struktur data\psda 11\psda 11 - soal\main.c
+	"Queue.h"
+
+1416936383 d:\ady's documentz\kuliah reguler\semester 3\struktur data\psda 11\psda 11 - soal\queue.h
+	<stdio.h>
+	<stdlib.h>
+
+1416937008 source:d:\ady's documentz\kuliah reguler\semester 3\struktur data\psda 11\psda 11 - soal\queue.c
+	"Queue.h"
+
+1417546958 source:f:\tugas2 skolah\udinus\semester 3\psda 11 - soal\main.c
+	"Queue.h"
+
+1417546951 f:\tugas2 skolah\udinus\semester 3\psda 11 - soal\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1417546964 source:f:\tugas2 skolah\udinus\semester 3\psda 11 - soal\queue.c
+	"Queue.h"
+
+1417546964 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\rabu 3 desember\psda 11 - soal\queue.c
+	"Queue.h"
+
+1417546951 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\rabu 3 desember\psda 11 - soal\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1417548192 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\rabu 3 desember\psda 11 - soal\main.c
+	"Queue.h"
+
+1417546964 source:c:\documents and settings\labdas\my documents\downloads\soal pemahaman rabu 3 desember\psda 11 queue - soal\queue.c
+	"Queue.h"
+
+1417546951 c:\documents and settings\labdas\my documents\downloads\soal pemahaman rabu 3 desember\psda 11 queue - soal\queue.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1417582240 source:c:\documents and settings\labdas\my documents\downloads\soal pemahaman rabu 3 desember\psda 11 queue - soal\main.c
+	"Queue.h"
+

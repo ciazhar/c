@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1449216904 source:/home/as3mbus/List Stack/main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Stack.h"
+
+1449578638 k.h"
+
+1449216854 source:/home/as3mbus/List Stack/List Stack.c
+	"List Stack.h"
+
+1449216383 /home/as3mbus/List Stack/List Stack.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1449475122 "
+
+1444187304 /home/as3mbus/List Stack/boolean.h
+
+1449475134 source:h:\strukdat\10\list stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Stack.h"
+
+1449475122 h:\strukdat\10\list stack\list stack.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1444187304 h:\strukdat\10\list stack\boolean.h
+
+1449475314 source:h:\strukdat\10\list stack\list stack.c
+	"List Stack.h"
+
+1449475324 source:g:\10\list stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Stack.h"
+
+1449475122 g:\10\list stack\list stack.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1444187304 g:\10\list stack\boolean.h
+
+1449578330 source:h:\10\list stack\list stack.c
+	"List Stack.h"
+
+1449475122 h:\10\list stack\list stack.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1444187304 h:\10\list stack\boolean.h
+
+1449578638 source:h:\10\list stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Stack.h"
+
+1449578330 source:/media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 2/List Stack.c
+	"List Stack.h"
+
+1449475122 /media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 2/List Stack.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1444187304 /media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 2/boolean.h
+
+1449578638 source:/media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"List Stack.h"
+

@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1380544430 source:d:\kuliah\semester3\strukdat\project\psda-02\queue alternatif\queue.c
+	"Queue.h"
+
+1380544172 d:\kuliah\semester3\strukdat\project\psda-02\queue alternatif\queue.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1380543473 d:\kuliah\semester3\strukdat\project\psda-02\queue alternatif\boolean.h
+
+1380544110 source:d:\kuliah\semester3\strukdat\project\psda-02\queue alternatif\driverqueue.c
+	"Queue.h"
+
+1380544752 source:h:\psda\psda 2\psda-02\queue alternatif iii\driverqueue.c
+	"Queue.h"
+
+1380544174 h:\psda\psda 2\psda-02\queue alternatif iii\queue.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1380543474 h:\psda\psda 2\psda-02\queue alternatif iii\boolean.h
+
+1380544432 source:h:\psda\psda 2\psda-02\queue alternatif iii\queue.c
+	"Queue.h"
+

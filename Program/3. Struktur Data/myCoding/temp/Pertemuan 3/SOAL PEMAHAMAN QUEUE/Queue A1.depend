@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1379566395 source:g:\tugas2 skolah\udinus\semester 3\struktur data\queue a1\main.c
+	"queue.h"
+
+1379566395 g:\tugas2 skolah\udinus\semester 3\struktur data\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 g:\tugas2 skolah\udinus\semester 3\struktur data\queue a1\boolean.h
+
+1379566424 source:g:\tugas2 skolah\udinus\semester 3\struktur data\queue a1\funct.c
+	"queue.h"
+
+1379566424 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\psda\queue a1\funct.c
+	"queue.h"
+
+1379566395 g:\tugas2 skolah\udinus\semester 3\projek struktur data\psda\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 g:\tugas2 skolah\udinus\semester 3\projek struktur data\psda\queue a1\boolean.h
+
+1379566706 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a1\main.c
+	"queue.h"
+
+1380467444 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a1\boolean.h
+
+1379566424 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 2\queue a1\funct.c
+	"queue.h"
+
+1379566706 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 2\queue a1\main.c
+	"queue.h"
+
+1410862559 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 2\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 2\queue a1\boolean.h
+
+1379566424 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 2\queue a1\funct.c
+	"queue.h"
+
+1411519742 source:c:\users\muhammad adhi\documents\toki\queue a1\funct.c
+	"queue.h"
+
+1411518828 c:\users\muhammad adhi\documents\toki\queue a1\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 c:\users\muhammad adhi\documents\toki\queue a1\boolean.h
+
+1411519579 source:c:\users\muhammad adhi\documents\toki\queue a1\main.c
+	"queue.h"
+
+1411519579 source:c:\users\muhammad adhi\documents\soal pemahaman queue\main.c
+	"queue.h"
+
+1411518828 c:\users\muhammad adhi\documents\soal pemahaman queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524459 c:\users\muhammad adhi\documents\soal pemahaman queue\boolean.h
+
+1411519742 source:c:\users\muhammad adhi\documents\soal pemahaman queue\funct.c
+	"queue.h"
+
+1411529342 source:d:\que\soal pemahaman queue\funct.c
+	"queue.h"
+
+1411529818 d:\que\soal pemahaman queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524460 d:\que\soal pemahaman queue\boolean.h
+
+1411529357 source:d:\que\soal pemahaman queue\main.c
+	"queue.h"
+
+1411533483 source:c:\documents and settings\d2h 01\my documents\downloads\soal pemahaman queue\funct.c
+	"queue.h"
+
+1411529818 c:\documents and settings\d2h 01\my documents\downloads\soal pemahaman queue\queue.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1379524460 c:\documents and settings\d2h 01\my documents\downloads\soal pemahaman queue\boolean.h
+
+1411533472 source:c:\documents and settings\d2h 01\my documents\downloads\soal pemahaman queue\main.c
+	"queue.h"
+

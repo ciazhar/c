@@ -1,0 +1,11 @@
+//judul :Jumlah Saudara
+//dibuat oleh : kita
+// 25 sept 2014
+
+//kamus :
+#include (stdio.h)
+//deskripsi :
+main ()
+{
+printf ("masukan jumlah saudara:");
+}

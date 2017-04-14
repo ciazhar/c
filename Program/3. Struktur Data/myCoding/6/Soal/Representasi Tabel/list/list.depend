@@ -1,0 +1,177 @@
+# depslib dependency file v1.0
+1350222649 source:d:\kuliah\lab dasar\psd-problems\05 - list berkait linier\list\main.c
+	"list.h"
+
+1350222584 d:\kuliah\lab dasar\psd-problems\05 - list berkait linier\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211574 d:\kuliah\lab dasar\psd-problems\05 - list berkait linier\list\boolean.h
+
+1350224592 source:d:\kuliah\lab dasar\psd-problems\05 - list berkait linier\list\list.c
+	"list.h"
+
+1350225019 source:d:\laboratorium dasar\strukdat\05 - list berkait linier dengan tabel\05 - list berkait linier dengan tabel\list\main.c
+	"list.h"
+
+1350222584 d:\laboratorium dasar\strukdat\05 - list berkait linier dengan tabel\05 - list berkait linier dengan tabel\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211574 d:\laboratorium dasar\strukdat\05 - list berkait linier dengan tabel\05 - list berkait linier dengan tabel\list\boolean.h
+
+1350224592 source:d:\laboratorium dasar\strukdat\05 - list berkait linier dengan tabel\05 - list berkait linier dengan tabel\list\list.c
+	"list.h"
+
+1350266528 source:h:\strukdat\berkait\list\main.c
+	"list.h"
+
+1350222586 h:\strukdat\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211576 h:\strukdat\berkait\list\boolean.h
+
+1350265160 source:h:\strukdat\berkait\list\list.c
+	"list.h"
+
+1350267024 source:f:\strukdat\berkait\list\main.c
+	"list.h"
+
+1350222586 f:\strukdat\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211576 f:\strukdat\berkait\list\boolean.h
+
+1350265160 source:f:\strukdat\berkait\list\list.c
+	"list.h"
+
+1352467886 source:d:\kuliah\struktur data\jawaban\list\list\berkait\list\main.c
+	"list.h"
+
+1352467641 d:\kuliah\struktur data\jawaban\list\list\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211576 d:\kuliah\struktur data\jawaban\list\list\berkait\list\boolean.h
+
+1352468052 source:d:\kuliah\struktur data\jawaban\list\list\berkait\list\list.c
+	"list.h"
+
+1352468156 source:d:\kuliah\struktur data\jawaban\psda05\berkait\list\main.c
+	"list.h"
+
+1352467641 d:\kuliah\struktur data\jawaban\psda05\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211576 d:\kuliah\struktur data\jawaban\psda05\berkait\list\boolean.h
+
+1352468052 source:d:\kuliah\struktur data\jawaban\psda05\berkait\list\list.c
+	"list.h"
+
+1352468054 source:g:\psda03-06\psda03-06\psda05\berkait\list\list.c
+	"list.h"
+
+1352467642 g:\psda03-06\psda03-06\psda05\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211576 g:\psda03-06\psda03-06\psda05\berkait\list\boolean.h
+
+1352468054 source:e:\data asisten\abp\kunci modul\kunci psda\psda05\berkait\list\list.c
+	"list.h"
+
+1352467642 e:\data asisten\abp\kunci modul\kunci psda\psda05\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211576 e:\data asisten\abp\kunci modul\kunci psda\psda05\berkait\list\boolean.h
+
+1445101186 source:c:\users\ryan\desktop\struktur data\pert-5\berkait\list\list.c
+	"list.h"
+
+1445103682 c:\users\ryan\desktop\struktur data\pert-5\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350211576 c:\users\ryan\desktop\struktur data\pert-5\berkait\list\boolean.h
+
+1445101207 source:c:\users\ryan\desktop\struktur data\pert-5\berkait\list\main.c
+	"list.h"
+
+1445423650 source:h:\struktur data\6\soal\berkait\list\list.c
+	"list.h"
+
+1445411002 h:\struktur data\6\soal\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350215176 h:\struktur data\6\soal\berkait\list\boolean.h
+
+1445421506 source:h:\struktur data\6\soal\berkait\list\main.c
+	"list.h"
+
+1445694681 source:d:\semester 3\strukdat\praktikum lab\panca\6\soal\berkait\list\main.c
+	"list.h"
+
+1445411002 d:\semester 3\strukdat\praktikum lab\panca\6\soal\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350215176 d:\semester 3\strukdat\praktikum lab\panca\6\soal\berkait\list\boolean.h
+
+1445694738 source:d:\semester 3\strukdat\praktikum lab\panca\6\soal\berkait\list\list.c
+	"list.h"
+
+1445694681 source:c:\users\my pc\documents\list\listtabel\berkait\list\main.c
+	"list.h"
+
+1475952744 c:\users\my pc\documents\list\listtabel\berkait\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350215176 c:\users\my pc\documents\list\listtabel\berkait\list\boolean.h
+
+1475952781 source:c:\users\my pc\documents\list\listtabel\berkait\list\list.c
+	"list.h"
+
+1475952826 source:i:\fd\strukdat\ngasis\template\list tabel\soal\representasi tabel\list\main.c
+	"list.h"
+
+1475952746 i:\fd\strukdat\ngasis\template\list tabel\soal\representasi tabel\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350215176 i:\fd\strukdat\ngasis\template\list tabel\soal\representasi tabel\list\boolean.h
+
+1475953354 source:i:\fd\strukdat\ngasis\template\list tabel\soal\representasi tabel\list\list.c
+	"list.h"
+
+1476065314 source:h:\[3] struktur data\temp 10 okt\soal\representasi tabel\list\main.c
+	"list.h"
+
+1475952746 h:\[3] struktur data\temp 10 okt\soal\representasi tabel\list\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1350215176 h:\[3] struktur data\temp 10 okt\soal\representasi tabel\list\boolean.h
+
+1476064840 source:h:\[3] struktur data\temp 10 okt\soal\representasi tabel\list\list.c
+	"list.h"
+

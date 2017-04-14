@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1352909951 source:c:\users\asus\desktop\listrekursif\main.c
+	"listrekursif.h"
+
+1352907675 c:\users\asus\desktop\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1352909836 source:c:\users\asus\desktop\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1352910724 source:d:\kuliah\struktur data\jawaban\psda12a\listrekursif\main.c
+	"listrekursif.h"
+
+1352910683 d:\kuliah\struktur data\jawaban\psda12a\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1355895884 source:d:\kuliah\struktur data\jawaban\psda12a\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1417962554 source:d:\labdas\semester 3 struktur data\pertemuan 12\psda12a\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1417962287 d:\labdas\semester 3 struktur data\pertemuan 12\psda12a\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1417962573 source:d:\labdas\semester 3 struktur data\pertemuan 12\psda12a\listrekursif\main.c
+	"listrekursif.h"
+
+1417962556 source:e:\data asisten\era\strukdat\pertemuan 12\jawaban\psda12a\listrekursif\listrekursif.c
+	"listrekursif.h"
+
+1417962288 e:\data asisten\era\strukdat\pertemuan 12\jawaban\psda12a\listrekursif\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1418019043 source:e:\data asisten\era\strukdat\pertemuan 12\jawaban\psda12a\listrekursif\main.c
+	"listrekursif.h"
+
+1418182668 source:d:\mad\listrekursif jawaban\listrekursif.c
+	"listrekursif.h"
+
+1417962288 d:\mad\listrekursif jawaban\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1418186892 source:c:\documents and settings\labdas\my documents\downloads\listrekursif soal\listrekursif.c
+	"listrekursif.h"
+
+1418184627 c:\documents and settings\labdas\my documents\downloads\listrekursif soal\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1418186821 source:c:\documents and settings\labdas\my documents\downloads\listrekursif soal\main.c
+	"listrekursif.h"
+
+1418186894 source:g:\pertemuan 12\listrekursif soal\listrekursif.c
+	"listrekursif.h"
+
+1418184628 g:\pertemuan 12\listrekursif soal\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1418186822 source:g:\pertemuan 12\listrekursif soal\main.c
+	"listrekursif.h"
+
+1418186894 source:h:\pertemuan 12\listrekursif soal\listrekursif.c
+	"listrekursif.h"
+
+1418184628 h:\pertemuan 12\listrekursif soal\listrekursif.h
+	<stdio.h>
+	<stdlib.h>
+
+1418186822 source:h:\pertemuan 12\listrekursif soal\main.c
+	"listrekursif.h"
+

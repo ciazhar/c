@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1449722895 source:c:\users\labdas\videos\hussein\tugas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tanggal.h"
+
+1449721197 c:\users\labdas\videos\hussein\tugas\tanggal.h
+
+1449723415 source:c:\users\labdas\videos\hussein\tugas\tanggal.c
+	"tanggal.h"
+

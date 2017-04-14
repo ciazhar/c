@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1479059187 source:c:\users\my pc\documents\list\sirkuler\driver.c
+	"header.h"
+
+1479058093 c:\users\my pc\documents\list\sirkuler\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1479059150 source:c:\users\my pc\documents\list\sirkuler\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1479643213 source:c:\users\my pc\documents\list\sirkuler\sirkuler\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1479642571 c:\users\my pc\documents\list\sirkuler\sirkuler\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1479643158 source:c:\users\my pc\documents\list\sirkuler\sirkuler\driver.c
+	"header.h"
+
+1479693912 source:f:\[3] struktur data\temp 21-11\pemahaman\soal\sirkuler\driver.c
+	"header.h"
+
+1479642572 f:\[3] struktur data\temp 21-11\pemahaman\soal\sirkuler\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1479693928 source:f:\[3] struktur data\temp 21-11\pemahaman\soal\sirkuler\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

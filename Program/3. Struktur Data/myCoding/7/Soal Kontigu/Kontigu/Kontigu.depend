@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1476557963 source:c:\users\my pc\documents\list\kontigu\driver.c
+	"header.h"
+
+1476557988 c:\users\my pc\documents\list\kontigu\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1476557520 source:c:\users\my pc\documents\list\kontigu\main.c
+	"header.h"
+
+1476560668 source:c:\users\my pc\documents\list\soal kontigu\kontigu\driver.c
+	"header.h"
+
+1476560669 c:\users\my pc\documents\list\soal kontigu\kontigu\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1476670024 source:c:\users\labdas\downloads\soal kontigu\kontigu\main.c
+	"header.h"
+
+1476669987 c:\users\labdas\downloads\soal kontigu\kontigu\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1476670378 source:c:\users\labdas\downloads\soal kontigu\kontigu\driver.c
+	"header.h"
+

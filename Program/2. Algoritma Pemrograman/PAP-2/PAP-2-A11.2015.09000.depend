@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1458088482 source:h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\fungsidasar2.c
+	"fungsidasar2.h"
+
+1458054632 h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\fungsidasar2.h
+
+1460023912 source:h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1459647892 source:f:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\fungsidasar2.c
+	"fungsidasar2.h"
+
+1459646102 f:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\fungsidasar2.h
+
+1459859354 source:f:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1459646102 f:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\pustaka.h
+
+1459859488 source:f:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\pustaka.c
+	"pustaka.h"
+
+1459900186 source:h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\pustaka.c
+	"pustaka.h"
+
+1459646102 h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-2-a11.2015.09000\pustaka.h
+

@@ -1,0 +1,13 @@
+1. Jelaskan perbedaan antara list berkait representasi tabel dengan list linier tanpa berkait tabel
+   lebih bagus jika ditambahkan gambar
+
+2. Buatlah Fungsi NilaiGanjilPertama(List L)->int yang akan mengembalikan nilai Ganjil pertama pada sebuah List
+Contoh :
+L : 2 3 4 1 5 
+NilaiGanjilPertama(L) : 3
+
+
+3. Buatlah Prosedur SwapFirstSecond(List *L)->void yang berfungsi untuk menukar nilai elemen pertama dan nilai elemen kedua List.
+Ex :
+L : 2 3 4 1 5 
+SwapFirstLast(&L) : 3 2 4 1 5    

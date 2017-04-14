@@ -1,0 +1,128 @@
+# depslib dependency file v1.0
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\main.c
+	"list.h"
+
+1380952680 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\funct.c
+	"list.h"
+
+1384930082 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1384928322 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\boolean.h
+
+1384929996 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1384967436 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier dummy\funct.c
+	"list.h"
+
+1384968261 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier dummy\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier dummy\boolean.h
+
+1384967473 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier dummy\main.c
+	"list.h"
+
+1385039771 source:g:\tugas2 skolah\udinus\semester 3\struktur data\tugas teori struktur data\list sirukuler ganda\list sirkuler ganda\main.c
+	"list.h"
+
+1385039771 g:\tugas2 skolah\udinus\semester 3\struktur data\tugas teori struktur data\list sirukuler ganda\list sirkuler ganda\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\tugas teori struktur data\list sirukuler ganda\list sirkuler ganda\boolean.h
+
+1385039871 source:g:\tugas2 skolah\udinus\semester 3\struktur data\tugas teori struktur data\list sirukuler ganda\list sirkuler ganda\funct.c
+	"list.h"
+
+1385820704 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 8\main.c
+	"list.h"
+
+1385820242 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 8\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 8\boolean.h
+
+1385820272 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 8\funct.c
+	"list.h"
+
+1416335642 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\praktek rabu 10.20\main.c
+	"list.h"
+
+1416335623 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\praktek rabu 10.20\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\praktek rabu 10.20\boolean.h
+
+1416331549 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\praktek rabu 10.20\funct.c
+	"list.h"
+
+1416335668 source:d:\mad\praktek rabu 10.20\funct.c
+	"list.h"
+
+1416335624 d:\mad\praktek rabu 10.20\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 d:\mad\praktek rabu 10.20\boolean.h
+
+1416335668 source:c:\documents and settings\labdas\my documents\downloads\praktek rabu 10.20\funct.c
+	"list.h"
+
+1416335624 c:\documents and settings\labdas\my documents\downloads\praktek rabu 10.20\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 c:\documents and settings\labdas\my documents\downloads\praktek rabu 10.20\boolean.h
+
+1416372464 source:c:\documents and settings\labdas\my documents\downloads\praktek rabu 10.20\main.c
+	"list.h"
+
+1416335668 source:g:\pertemuan 9\praktek rabu 10.20\funct.c
+	"list.h"
+
+1416335624 g:\pertemuan 9\praktek rabu 10.20\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 g:\pertemuan 9\praktek rabu 10.20\boolean.h
+
+1416372466 source:g:\pertemuan 9\praktek rabu 10.20\main.c
+	"list.h"
+
+1416335668 source:h:\pertemuan 9\praktek rabu 10.20\funct.c
+	"list.h"
+
+1416335624 h:\pertemuan 9\praktek rabu 10.20\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 h:\pertemuan 9\praktek rabu 10.20\boolean.h
+
+1416372466 source:h:\pertemuan 9\praktek rabu 10.20\main.c
+	"list.h"
+

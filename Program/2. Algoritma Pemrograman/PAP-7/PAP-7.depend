@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1462922904 source:h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+
+1462891292 h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-7\pustaka.h
+
+1462923036 source:h:\_\kuliah\[2]algoritma pemrograman\tugas\pap-7\pustaka.c
+	"pustaka.h"
+

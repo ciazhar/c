@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1474687782 source:c:\users\labdas\desktop\stack_dinamik\fungsi.c
+	"header.h"
+
+1474687711 c:\users\labdas\desktop\stack_dinamik\header.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1474688566 source:c:\users\labdas\desktop\stack_dinamik\main.c
+	"header.h"
+

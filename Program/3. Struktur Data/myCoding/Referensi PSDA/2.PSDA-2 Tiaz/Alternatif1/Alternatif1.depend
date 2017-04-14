@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1411339775 source:f:\data kuliah\semester 3\strukdat\psda 2\alternatif1\main.c
+	"header.h"
+
+1411339776 
+
+1411044355 f:\data kuliah\semester 3\strukdat\psda 2\alternatif1\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411044356 "
+
+1411041468 f:\data kuliah\semester 3\strukdat\psda 2\alternatif1\boolean.h
+
+1411340391 source:f:\data kuliah\semester 3\strukdat\psda 2\alternatif1\fungsi.c
+	"header.h"
+
+1411340392 source:d:\kuliah\struktur data\strukday\psda-2 tiaz\alternatif1\fungsi.c
+	"header.h"
+
+1411044356 d:\kuliah\struktur data\strukday\psda-2 tiaz\alternatif1\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411041470 d:\kuliah\struktur data\strukday\psda-2 tiaz\alternatif1\boolean.h
+
+1411339776 source:d:\kuliah\struktur data\strukday\psda-2 tiaz\alternatif1\main.c
+	"header.h"
+
+1411340392 source:f:\dede\strukday\psda-2 tiaz\alternatif1\fungsi.c
+	"header.h"
+
+1411044356 f:\dede\strukday\psda-2 tiaz\alternatif1\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411041470 f:\dede\strukday\psda-2 tiaz\alternatif1\boolean.h
+
+1411339776 source:f:\dede\strukday\psda-2 tiaz\alternatif1\main.c
+	"header.h"
+
+1411340392 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/2.PSDA-2 Tiaz/Alternatif1/fungsi.c
+	"header.h"
+
+1411044356 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/2.PSDA-2 Tiaz/Alternatif1/header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1411041470 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/2.PSDA-2 Tiaz/Alternatif1/boolean.h
+
+1411339776 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/Referensi PSDA/2.PSDA-2 Tiaz/Alternatif1/main.c
+	"header.h"
+

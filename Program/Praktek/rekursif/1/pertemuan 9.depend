@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1462932858 source:e:\data asisten\asw\alpro 2016\praktikum\pertemuan 9\main.c
+	"pustaka.h"
+
+1462935648 e:\data asisten\asw\alpro 2016\praktikum\pertemuan 9\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1462935700 source:e:\data asisten\asw\alpro 2016\praktikum\pertemuan 9\pustaka.c
+	"pustaka.h"
+
+1463472192 source:h:\_\kuliah\[2]algoritma pemrograman\praktek\rekursif\1\main.c
+	"pustaka.h"
+
+1462935650 h:\_\kuliah\[2]algoritma pemrograman\praktek\rekursif\1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1462936266 source:h:\_\kuliah\[2]algoritma pemrograman\praktek\rekursif\1\pustaka.c
+	"pustaka.h"
+
+1463472648 source:c:\users\hafiz\documents\[zhar]\kuliah\[2]algoritma pemrograman\praktek\rekursif\1\main.c
+	"pustaka.h"
+
+1462935650 c:\users\hafiz\documents\[zhar]\kuliah\[2]algoritma pemrograman\praktek\rekursif\1\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1463492776 source:c:\users\hafiz\documents\[zhar]\kuliah\[2]algoritma pemrograman\praktek\rekursif\1\pustaka.c
+	"pustaka.h"
+

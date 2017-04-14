@@ -1,0 +1,8 @@
+Soal Pemahaman Senin Pagi 08:40
+
+List Kontigu
+
+Buatlah prosedur untuk membalikkan sebuah List.
+Contoh : 
+   List : 1, 2, 3, 4, 5
+   Output : 5, 4, 3, 2, 1

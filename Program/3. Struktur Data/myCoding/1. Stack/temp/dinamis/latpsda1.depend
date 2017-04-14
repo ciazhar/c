@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1442763016 source:d:\a11.2014.08196 udinus\a11.08196 materi smt 3\a11.4315 strukdat\psdafilee\psda1ham\latpsda1\main.c
+	"stack.h"
+
+1442762346 
+
+1442762335 d:\a11.2014.08196 udinus\a11.08196 materi smt 3\a11.4315 strukdat\psdafilee\psda1ham\latpsda1\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1442762336 
+
+1442758743 d:\a11.2014.08196 udinus\a11.08196 materi smt 3\a11.4315 strukdat\psdafilee\psda1ham\latpsda1\boolean.h
+
+1442762345 source:d:\a11.2014.08196 udinus\a11.08196 materi smt 3\a11.4315 strukdat\psdafilee\psda1ham\latpsda1\stacks.c
+	"stack.h"
+
+1442763018 source:g:\a111408196psda1\latpsda1\main.c
+	"stack.h"
+
+1442762336 g:\a111408196psda1\latpsda1\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1442758744 g:\a111408196psda1\latpsda1\boolean.h
+
+1442762346 source:g:\a111408196psda1\latpsda1\stacks.c
+	"stack.h"
+
+1442763018 source:/media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 4/main.c
+	"stack.h"
+
+1442762336 /media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 4/stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1442758744 /media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 4/boolean.h
+
+1442762346 source:/media/hafidz/SMA LIMB/ciazhar/Struktur Data/Referensi Koding/1. Stack/temp/1. Stack 4/stacks.c
+	"stack.h"
+

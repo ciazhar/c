@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1459912262 source:h:\_\kuliah\[2]algoritma pemrograman\praktek\searching\binary search\main.c
+	"pustaka.h"
+
+1459911462 h:\_\kuliah\[2]algoritma pemrograman\praktek\searching\binary search\pustaka.h
+	<stdio.h>
+	<stdlib.h>
+
+1459912336 source:h:\_\kuliah\[2]algoritma pemrograman\praktek\searching\binary search\pustaka.c
+	"pustaka.h"
+

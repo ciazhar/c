@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1444624204 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/3. List/List 3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"soal4.h"
+
+1444622476 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/3. List/List 3/soal4.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"boolean.h"
+
+1444622124 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/3. List/List 3/boolean.h
+
+1444622476 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/3. List/List 3/soal4.c
+	"soal4.h"
+

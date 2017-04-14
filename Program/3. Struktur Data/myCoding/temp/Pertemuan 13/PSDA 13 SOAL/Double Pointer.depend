@@ -1,0 +1,91 @@
+# depslib dependency file v1.0
+1386173119 source:e:\university\semester 3\struktur data\tugas\psda 9\double pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1386173063 source:e:\university\semester 3\struktur data\tugas\psda 9\double pointer\fungsi.c
+	"header.h"
+
+1386172785 e:\university\semester 3\struktur data\tugas\psda 9\double pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1386166858 e:\university\semester 3\struktur data\tugas\psda 9\double pointer\boolean.h
+
+1386506095 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 9\double pointer\fungsi.c
+	"header.h"
+
+1386505037 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 9\double pointer\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1386166860 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 9\double pointer\boolean.h
+
+1386173120 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 9\double pointer\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1391370523 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 13\fungsi.c
+	"header.h"
+
+1391370472 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 13\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1386166860 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 13\boolean.h
+
+1390806585 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1418776643 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 13\fungsi.c
+	"header.h"
+
+1418776311 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 13\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1386166860 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 13\boolean.h
+
+1418777080 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1418792712 source:c:\documents and settings\labdas\my documents\downloads\psda 13 soal\fungsi.c
+	"header.h"
+
+1418791399 c:\documents and settings\labdas\my documents\downloads\psda 13 soal\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1418780944 c:\documents and settings\labdas\my documents\downloads\psda 13 soal\boolean.h
+
+1418792485 source:c:\documents and settings\labdas\my documents\downloads\psda 13 soal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1418792714 source:h:\pertemuan 13\psda 13 soal\fungsi.c
+	"header.h"
+
+1418791400 h:\pertemuan 13\psda 13 soal\header.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1418780944 h:\pertemuan 13\psda 13 soal\boolean.h
+
+1418792760 source:h:\pertemuan 13\psda 13 soal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+

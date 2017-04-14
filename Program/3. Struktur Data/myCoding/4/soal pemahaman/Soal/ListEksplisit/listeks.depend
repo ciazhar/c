@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1443946501 source:c:\users\ryan\desktop\struktur data\pert-3\psda3\listeks.c
+	"listeks.h"
+
+1443946436 c:\users\ryan\desktop\struktur data\pert-3\psda3\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 c:\users\ryan\desktop\struktur data\pert-3\psda3\boolean.h
+
+1443952826 source:c:\users\ryan\desktop\struktur data\pert-3\soal\psda3\main.c
+	"listeks.h"
+
+1443946436 c:\users\ryan\desktop\struktur data\pert-3\soal\psda3\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 c:\users\ryan\desktop\struktur data\pert-3\soal\psda3\boolean.h
+
+1444213454 source:h:\struktur data\4\soal\psda3\main.c
+	"listeks.h"
+
+1444211648 h:\struktur data\4\soal\psda3\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 h:\struktur data\4\soal\psda3\boolean.h
+
+1444213790 source:h:\struktur data\4\soal\psda3\listeks.c
+	"listeks.h"
+
+1444213790 source:d:\semester 3\strukdat\praktikum lab\panca\4\soal\psda3\listeks.c
+	"listeks.h"
+
+1444211648 d:\semester 3\strukdat\praktikum lab\panca\4\soal\psda3\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 d:\semester 3\strukdat\praktikum lab\panca\4\soal\psda3\boolean.h
+
+1444213454 source:d:\semester 3\strukdat\praktikum lab\panca\4\soal\psda3\main.c
+	"listeks.h"
+
+1475433346 source:d:\semester 3\strukdat\praktikum lab\pertemuan 4\soal\psda3\listeks.c
+	"listeks.h"
+
+1475433346 d:\semester 3\strukdat\praktikum lab\pertemuan 4\soal\psda3\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 d:\semester 3\strukdat\praktikum lab\pertemuan 4\soal\psda3\boolean.h
+
+1444213454 source:d:\semester 3\strukdat\praktikum lab\pertemuan 4\soal\psda3\main.c
+	"listeks.h"
+
+1475434870 source:c:\users\my pc\documents\list\psda3\listeks.c
+	"listeks.h"
+
+1475434699 c:\users\my pc\documents\list\psda3\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 c:\users\my pc\documents\list\psda3\boolean.h
+
+1475434892 source:c:\users\my pc\documents\list\psda3\main.c
+	"listeks.h"
+
+1475435094 source:i:\fd\strukdat\ngasis\template\list eksplisit\soal\listeksplisit\listeks.c
+	"listeks.h"
+
+1475434700 i:\fd\strukdat\ngasis\template\list eksplisit\soal\listeksplisit\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 i:\fd\strukdat\ngasis\template\list eksplisit\soal\listeksplisit\boolean.h
+
+1475435130 source:i:\fd\strukdat\ngasis\template\list eksplisit\soal\listeksplisit\main.c
+	"listeks.h"
+
+1475461558 source:h:\soal pemahaman\soal\listeksplisit\main.c
+	"listeks.h"
+
+1475461318 h:\soal pemahaman\soal\listeksplisit\listeks.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380858232 h:\soal pemahaman\soal\listeksplisit\boolean.h
+
+1475461850 source:h:\soal pemahaman\soal\listeksplisit\listeks.c
+	"listeks.h"
+

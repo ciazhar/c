@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1443312516 source:g:\_\kuliah\dasar pemrograman\tugas\boolean.h\driver.c
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1443312158 g:\_\kuliah\dasar pemrograman\tugas\boolean.h\boolean.h
+

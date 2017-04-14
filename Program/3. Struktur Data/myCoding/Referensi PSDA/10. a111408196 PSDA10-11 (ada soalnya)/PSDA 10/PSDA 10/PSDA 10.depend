@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1449384476 source:g:\struktur data\psda 10\psda 10\check.c
+	"container.h"
+
+1449384489 g:\struktur data\psda 10\psda 10\container.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1449384274 g:\struktur data\psda 10\psda 10\boolean.h
+
+1449384569 source:g:\struktur data\psda 10\psda 10\main.c
+	"container.h"
+
+1449384698 source:c:\users\labdas\desktop\a111408522\psda 10\psda 10\check.c
+	"container.h"
+
+1449384488 c:\users\labdas\desktop\a111408522\psda 10\psda 10\container.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1449384274 c:\users\labdas\desktop\a111408522\psda 10\psda 10\boolean.h
+
+1449384568 source:c:\users\labdas\desktop\a111408522\psda 10\psda 10\main.c
+	"container.h"
+
+1449579640 source:h:\a111408196 psda10-11\psda 10\psda 10\check.c
+	"container.h"
+
+1449579018 h:\a111408196 psda10-11\psda 10\psda 10\container.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1449384274 h:\a111408196 psda10-11\psda 10\psda 10\boolean.h
+
+1449579782 source:h:\a111408196 psda10-11\psda 10\psda 10\main.c
+	"container.h"
+

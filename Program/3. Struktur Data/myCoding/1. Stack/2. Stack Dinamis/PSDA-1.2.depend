@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1474813138 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/2. Stack Dinamis/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+	"boolean.h"
+
+1474813517 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/2. Stack Dinamis/pustaka.h
+	"boolean.h"
+
+1474813138 /media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/2. Stack Dinamis/boolean.h
+
+1474813620 source:/media/hafidz/ciaZHAR1/Kuliah/Struktur Data/Referensi Koding/1. Stack/2. Stack Dinamis/pustaka.c
+	<malloc.h>
+	"pustaka.h"
+	"boolean.h"
+
+1476704262 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/1. Stack/2. Stack Dinamis/main.c
+	<stdio.h>
+	<stdlib.h>
+	"pustaka.h"
+	"boolean.h"
+
+1476699253 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/1. Stack/2. Stack Dinamis/pustaka.h
+	"boolean.h"
+
+1474813138 /media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/1. Stack/2. Stack Dinamis/boolean.h
+
+1476704244 source:/media/hafidz/ciaZHAR1/Kuliah/[3] Struktur Data/Referensi Koding/1. Stack/2. Stack Dinamis/pustaka.c
+	<malloc.h>
+	"pustaka.h"
+	"boolean.h"
+

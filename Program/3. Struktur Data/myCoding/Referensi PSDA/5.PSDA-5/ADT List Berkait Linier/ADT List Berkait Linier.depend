@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1412683722 source:c:\users\teguh\desktop\adt list berkait linier\list.c
+	"list.h"
+
+1412683722 c:\users\teguh\desktop\adt list berkait linier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1412683607 c:\users\teguh\desktop\adt list berkait linier\boolean.h
+
+1412683904 source:c:\users\teguh\desktop\adt list berkait linier\main.c
+	"list.h"
+
+1412683722 source:d:\strukday\psda-5\adt list berkait linier\list.c
+	"list.h"
+
+1445201731 d:\strukday\psda-5\adt list berkait linier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1412683608 d:\strukday\psda-5\adt list berkait linier\boolean.h
+
+1412683904 source:d:\strukday\psda-5\adt list berkait linier\main.c
+	"list.h"
+

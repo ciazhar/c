@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1480473895 source:/home/hafidz/Desktop/towerHanoi/implementasi.c
+	"header.h"
+
+1480473930 /home/hafidz/Desktop/towerHanoi/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1480473966 source:/home/hafidz/Desktop/towerHanoi/main.c
+	"header.h"
+

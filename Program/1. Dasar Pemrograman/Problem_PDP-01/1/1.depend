@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1443314122 source:h:\_\kuliah\dasar pemrograman\tugas\problem_pdp-01\1\driver.c
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1443312158 h:\_\kuliah\dasar pemrograman\tugas\problem_pdp-01\1\boolean.h
+
+1443616886 source:f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-01\1\driver.c
+	"boolean.h"
+
+1443616772 f:\_\kuliah\dasar pemrograman\tugas\problem_pdp-01\1\boolean.h
+

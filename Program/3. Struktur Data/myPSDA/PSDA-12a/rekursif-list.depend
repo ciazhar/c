@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1480587706 source:f:\[3] struktur data\1-12\rekursif-list\main.c
+	"header.h"
+
+1480589384 
+
+1480588658 f:\[3] struktur data\1-12\rekursif-list\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1480589384 source:f:\[3] struktur data\1-12\rekursif-list\rekursif-list.c
+	"header.h"
+
+1481174500 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/11. Rekursif List/rekursif-list/main.c
+	"header.h"
+
+1481164109 /media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/11. Rekursif List/rekursif-list/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481163587 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myCoding/11. Rekursif List/rekursif-list/rekursif-list.c
+	"header.h"
+
+1481185812 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-12a/rekursif-list.c
+	"header.h"
+
+1481164109 /media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-12a/header.h
+	<stdio.h>
+	<stdlib.h>
+
+1481186177 source:/media/hafidz/ciazhar/Kuliah/[3] Struktur Data/myPSDA/PSDA-12a/main.c
+	"header.h"
+

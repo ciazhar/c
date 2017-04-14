@@ -1,0 +1,76 @@
+# depslib dependency file v1.0
+1379158356 source:g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\stack.h
+	"boolean.h"
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\funct.c
+	"stack.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\struktur data\struk1\boolean.h
+
+1379567550 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\stack.h
+	"boolean.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\boolean.h
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\projek struktur data\struktur statis\funct.c
+	"stack.h"
+
+1379567550 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1379157873 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\stack.h
+	"boolean.h"
+
+1379123014 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\boolean.h
+
+1379155404 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 1\struktur statis\funct.c
+	"stack.h"
+
+1413915285 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\struktur statis\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+
+1413911700 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\struktur statis\stack.h
+	"boolean.h"
+
+1379123014 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\struktur statis\boolean.h
+
+1413912677 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\struktur statis\funct.c
+	"stack.h"
+
+1413950760 source:c:\documents and settings\labdas\desktop\labdas\stack\funct.c
+	"stack.h"
+
+1413911702 c:\documents and settings\labdas\desktop\labdas\stack\stack.h
+	"boolean.h"
+
+1379123016 c:\documents and settings\labdas\desktop\labdas\stack\boolean.h
+
+1413951416 source:c:\documents and settings\labdas\desktop\labdas\stack\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"stack.h"
+	<ctype.h>
+

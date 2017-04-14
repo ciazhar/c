@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\main.c
+	"list.h"
+
+1380952680 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\listlinier\funct.c
+	"list.h"
+
+1380960606 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1380982750 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\boolean.h
+
+1380960157 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1381827452 source:g:\tugas2 skolah\udinus\semester 3\struktur data\psda 3\list linier eksplisit\main.c
+	"list.h"
+
+1381827138 g:\tugas2 skolah\udinus\semester 3\struktur data\psda 3\list linier eksplisit\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\psda 3\list linier eksplisit\boolean.h
+
+1381827452 source:g:\tugas2 skolah\udinus\semester 3\struktur data\psda 3\list linier eksplisit\funct.c
+	"list.h"
+
+1381901679 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 5\list linier tabel\main.c
+	"list.h"
+
+1381892778 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 5\list linier tabel\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 5\list linier tabel\boolean.h
+
+1382493076 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 5\list linier tabel\funct.c
+	"list.h"
+
+1412704997 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 5\list linier tabel\main.c
+	"list.h"
+
+1412704496 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 5\list linier tabel\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 5\list linier tabel\boolean.h
+
+1412705067 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 5\list linier tabel\funct.c
+	"list.h"
+
+1412725518 source:g:\psda 5\list linier tabel\main.c
+	"list.h"
+
+1412725565 g:\psda 5\list linier tabel\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705930 g:\psda 5\list linier tabel\boolean.h
+
+1412725565 source:g:\psda 5\list linier tabel\funct.c
+	"list.h"
+
+1412725520 source:g:\pertemuan 5\pemahaman psda 5 (answer)\list linier tabel\main.c
+	"list.h"
+
+1412725566 g:\pertemuan 5\pemahaman psda 5 (answer)\list linier tabel\list.h
+	<stdio.h>
+	<stdlib.h>
+	"boolean.h"
+
+1380705932 g:\pertemuan 5\pemahaman psda 5 (answer)\list linier tabel\boolean.h
+

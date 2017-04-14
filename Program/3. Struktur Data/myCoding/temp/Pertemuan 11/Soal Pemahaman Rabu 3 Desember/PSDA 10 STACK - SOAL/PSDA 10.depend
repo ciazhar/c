@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1387083069 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\main.c
+	"stack.h"
+
+1387081761 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1387080361 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\boolean.h
+
+1387083687 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\stack.c
+	"stack.h"
+
+1387083687 source:g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\program\stack.c
+	"stack.h"
+
+1387081761 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\program\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+
+1387080361 g:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda\psda 10\program\boolean.h
+
+1417543094 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 10\program\main.c
+	"stack.h"
+
+1417540943 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 10\program\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1387080361 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 10\program\boolean.h
+
+1417543184 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\psda ori\psda 10\program\stack.c
+	"stack.h"
+
+1417543184 source:f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\rabu 3 desember\psda 10\soal stack psda 10\stack.c
+	"stack.h"
+
+1417540943 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\rabu 3 desember\psda 10\soal stack psda 10\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1387080361 f:\tugas2 skolah\udinus\semester 3\struktur data\prakikum\labdas\rabu 3 desember\psda 10\soal stack psda 10\boolean.h
+
+1417543184 source:c:\documents and settings\labdas\my documents\downloads\soal pemahaman rabu 3 desember\psda 10 stack - soal\stack.c
+	"stack.h"
+
+1417540943 c:\documents and settings\labdas\my documents\downloads\soal pemahaman rabu 3 desember\psda 10 stack - soal\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1387080361 c:\documents and settings\labdas\my documents\downloads\soal pemahaman rabu 3 desember\psda 10 stack - soal\boolean.h
+
+1417582456 source:c:\documents and settings\labdas\my documents\downloads\soal pemahaman rabu 3 desember\psda 10 stack - soal\main.c
+	"stack.h"
+
+1417582458 source:h:\pertemuan 11\soal pemahaman rabu 3 desember\psda 10 stack - soal\main.c
+	"stack.h"
+
+1417540944 h:\pertemuan 11\soal pemahaman rabu 3 desember\psda 10 stack - soal\stack.h
+	"boolean.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1387080362 h:\pertemuan 11\soal pemahaman rabu 3 desember\psda 10 stack - soal\boolean.h
+
+1417543186 source:h:\pertemuan 11\soal pemahaman rabu 3 desember\psda 10 stack - soal\stack.c
+	"stack.h"
+
